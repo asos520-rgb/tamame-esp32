@@ -2,6 +2,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
+<img src="docs/images/tamame-poster-portrait.png" alt="TamaMe open source beta poster" width="480">
+
 The public firmware defaults to English and offers English / 简体中文 / 繁體中文 in Settings. Saving a language restarts the device. Interface language, AI reply language and optional TTS voice settings are separate concerns. See the [language coverage index](LANGUAGES.md).
 
 **Your likeness, your little pixel companion.**
@@ -15,6 +17,20 @@ This is a **source preview**, not a ready-to-flash release. The target board is 
 Pet interactions, coins, feeding, fortune telling, wardrobe choices, local sound effects, recent replies, and account-backed AI conversations with captions. Optional [Fish Audio TTS](docs/fish-audio.en.md) requires your own configuration. The author has personally verified it in their private build; the public default build has not undergone a live TTS test. **The default build displays captions and does not speak replies.**
 
 A fictional default avatar is included, with five generic scenes: gym, desk, living room, bedroom and café, plus a black background. Clothing and accessories can be mixed. Adaptive scheduling, location control and private-memory automation are not defined or validated public features. Personal avatars currently require local asset conversion and rebuilding; there is no photo upload or on-device avatar import flow.
+
+## Default character and scenes
+
+The public build ships a fictional default character with eight states and five generic scenes, plus a black background. Clothing and accessories can be mixed.
+
+<img src="assets/default-v2/pack/preview.png" alt="Default character pack preview" width="240">
+
+<img src="assets/default-v2/avatar/boot.png" alt="boot" width="96"> <img src="assets/default-v2/avatar/error.png" alt="error" width="96"> <img src="assets/default-v2/avatar/happy.png" alt="happy" width="96"> <img src="assets/default-v2/avatar/idle.png" alt="idle" width="96"> <img src="assets/default-v2/avatar/listening.png" alt="listening" width="96"> <img src="assets/default-v2/avatar/off.png" alt="off" width="96"> <img src="assets/default-v2/avatar/speaking.png" alt="speaking" width="96"> <img src="assets/default-v2/avatar/thinking.png" alt="thinking" width="96">
+
+States, left to right: boot, error, happy, idle, listening, off, speaking, thinking.
+
+<img src="assets/default-v2/scenes/bedroom.png" alt="bedroom" width="160"> <img src="assets/default-v2/scenes/cafe.png" alt="café" width="160"> <img src="assets/default-v2/scenes/desk.png" alt="desk" width="160"> <img src="assets/default-v2/scenes/gym.png" alt="gym" width="160"> <img src="assets/default-v2/scenes/living.png" alt="living room" width="160">
+
+Scenes, left to right: bedroom, café, desk, gym, living room.
 
 ## Evidence and limits
 

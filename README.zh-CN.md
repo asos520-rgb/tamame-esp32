@@ -2,6 +2,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
+<img src="docs/images/tamame-poster-portrait-zh-CN.png" alt="TamaMe 开源公测海报" width="480">
+
 公开版固件默认英文，可在设置选择 English／简体中文／繁體中文；保存后重启生效。界面语言、AI 回复语言与选配 TTS 声音是不同设置。完整范围见 [语言覆盖清单](LANGUAGES.md)。
 
 **把自己的形象，变成桌上的像素小伴。**
@@ -21,6 +23,20 @@ TamaMe 是基于 Muse Gadget SDK 的 ESP32 个性化桌面电子宠物项目。�
 - 选配 [Fish Audio TTS](docs/fish-audio.zh-CN.md) 与有权使用的声音，作者私人版本已亲测有效。**默认只有字幕，不会朗读回复。**
 
 提供黑底及健身房、书桌旁、客厅、房间、咖啡厅五个场景；服装为休闲上衣、运动服与围裙。「自适应」尚未定义为可验收的公开功能，不宣称具备定位、班表或私人记忆自动控制。
+
+## 默认角色与场景
+
+公开版内置一个虚构默认角色，包含八种状态和五个通用场景，另有黑色背景。服装与配件可自由搭配。
+
+<img src="assets/default-v2/pack/preview.png" alt="默认角色套装预览" width="240">
+
+<img src="assets/default-v2/avatar/boot.png" alt="开机" width="96"> <img src="assets/default-v2/avatar/error.png" alt="错误" width="96"> <img src="assets/default-v2/avatar/happy.png" alt="开心" width="96"> <img src="assets/default-v2/avatar/idle.png" alt="待机" width="96"> <img src="assets/default-v2/avatar/listening.png" alt="聆听" width="96"> <img src="assets/default-v2/avatar/off.png" alt="关机" width="96"> <img src="assets/default-v2/avatar/speaking.png" alt="说话" width="96"> <img src="assets/default-v2/avatar/thinking.png" alt="思考" width="96">
+
+状态，从左到右：开机、错误、开心、待机、聆听、关机、说话、思考。
+
+<img src="assets/default-v2/scenes/bedroom.png" alt="卧室" width="160"> <img src="assets/default-v2/scenes/cafe.png" alt="咖啡厅" width="160"> <img src="assets/default-v2/scenes/desk.png" alt="书桌" width="160"> <img src="assets/default-v2/scenes/gym.png" alt="健身房" width="160"> <img src="assets/default-v2/scenes/living.png" alt="客厅" width="160">
+
+场景，从左到右：卧室、咖啡厅、书桌、健身房、客厅。
 
 ## 已验证到哪里
 
