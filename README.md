@@ -12,6 +12,8 @@ TamaMe is an independent ESP32 desktop pet project based on Muse Gadget SDK. The
 
 This is a **source preview**, not a ready-to-flash release. The target board is the **Waveshare ESP32-S3-Touch-AMOLED-1.75C**, built with ESP-IDF 6.0.1. Other boards have not been validated by this project.
 
+![Public asset render preview, not a device screenshot](docs/images/public-render-review-v2.en.png)
+
 ## Features
 
 Pet interactions, coins, feeding, fortune telling, wardrobe choices, local sound effects, recent replies, and account-backed AI conversations with captions. Optional [Fish Audio TTS](docs/fish-audio.en.md) requires your own configuration. The author has personally verified it in their private build; the public default build has not undergone a live TTS test. **The default build displays captions and does not speak replies.**

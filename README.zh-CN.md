@@ -12,7 +12,7 @@ TamaMe 是基于 Muse Gadget SDK 的 ESP32 个性化桌面电子宠物项目。�
 
 目前提供**源码预览**，不是可直接刷入的正式固件。目标硬件为 **Waveshare ESP32-S3-Touch-AMOLED-1.75C**；其他板型未由本项目验证。
 
-![公开版素材的实际 C renderer 预览，非实机截图](docs/images/public-render-review-v2.png)
+![公开版素材的实际 C renderer 预览，非实机截图](docs/images/public-render-review-v2.zh-CN.png)
 
 ## 可以做什么
 
