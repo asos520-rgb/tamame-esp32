@@ -1,0 +1,15 @@
+TamaMe electronic-pet source preview
+
+Based on Muse Gadget SDK, pinned source revision recorded in source-plan.json.
+Copyright (c) Meta Platforms, Inc. and affiliates, and respective contributors.
+Original notices remain in source files and bundled third-party licence texts.
+
+Local additions include pet interactions, wardrobe, recent-reply UI, caption
+fonts, optional speech integration and public-edition privacy changes.
+No endorsement by the upstream project or hardware vendors is implied.
+
+Code is supplied under Apache-2.0 except components with their own notices.
+The fictional generated artwork in assets/default-v2 is separately offered
+under CC0-1.0; see assets/README.md and assets/LICENSES/CC0-1.0.txt.
+Fonts and third-party sources keep their own licences. This notice does not
+relicense those materials or grant rights to any user-provided portrait/voice.

@@ -1,0 +1,31 @@
+# Personal inputs and provisioning
+.env
+.env.*
+!.env.example
+.sdk-token
+config.local.*
+sdkconfig
+sdkconfig.old
+private/
+user-assets/
+backups/
+*.pem
+*.key
+
+# Build results and recordings are not publication inputs
+build/
+build-*/
+managed_components/
+*.bin
+*.elf
+*.map
+*.log
+*.wav
+*.mp3
+*.m4a
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+
+# Secrets already tracked require removal from history separately.

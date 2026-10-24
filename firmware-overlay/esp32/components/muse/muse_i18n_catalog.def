@@ -1,0 +1,1344 @@
+/* SPDX-License-Identifier: Apache-2.0
+ * Single fixed UI string catalog: English / Simplified / Traditional.
+ * User replies and transcripts must never be looked up here. */
+#ifndef MUSE_KEY_s000
+#define MUSE_KEY_s000 "%s按鍵"
+#endif
+#ifndef MUSE_KEY_s001
+#define MUSE_KEY_s001 "USB 供電"
+#endif
+#ifndef MUSE_KEY_s002
+#define MUSE_KEY_s002 "Wi-Fi 已關閉"
+#endif
+#ifndef MUSE_KEY_s003
+#define MUSE_KEY_s003 "充電中 %d%%"
+#endif
+#ifndef MUSE_KEY_s004
+#define MUSE_KEY_s004 "再見"
+#endif
+#ifndef MUSE_KEY_s005
+#define MUSE_KEY_s005 "啟動中"
+#endif
+#ifndef MUSE_KEY_s006
+#define MUSE_KEY_s006 "喇叭已開啟"
+#endif
+#ifndef MUSE_KEY_s007
+#define MUSE_KEY_s007 "喇叭已關閉"
+#endif
+#ifndef MUSE_KEY_s008
+#define MUSE_KEY_s008 "已連線"
+#endif
+#ifndef MUSE_KEY_s009
+#define MUSE_KEY_s009 "思考中"
+#endif
+#ifndef MUSE_KEY_s010
+#define MUSE_KEY_s010 "未連上 Wi-Fi"
+#endif
+#ifndef MUSE_KEY_s011
+#define MUSE_KEY_s011 "未連線"
+#endif
+#ifndef MUSE_KEY_s012
+#define MUSE_KEY_s012 "準備就緒"
+#endif
+#ifndef MUSE_KEY_s013
+#define MUSE_KEY_s013 "狀態：%s\nWi-Fi：%s\n%s"
+#endif
+#ifndef MUSE_KEY_s014
+#define MUSE_KEY_s014 "發生錯誤"
+#endif
+#ifndef MUSE_KEY_s015
+#define MUSE_KEY_s015 "聆聽中"
+#endif
+#ifndef MUSE_KEY_s016
+#define MUSE_KEY_s016 "與 Muse App 配對"
+#endif
+#ifndef MUSE_KEY_s017
+#define MUSE_KEY_s017 "說話中"
+#endif
+#ifndef MUSE_KEY_s018
+#define MUSE_KEY_s018 "請在手機輸入"
+#endif
+#ifndef MUSE_KEY_s019
+#define MUSE_KEY_s019 "請在手機輸入配對碼"
+#endif
+#ifndef MUSE_KEY_s020
+#define MUSE_KEY_s020 "請按%s按鍵"
+#endif
+#ifndef MUSE_KEY_s021
+#define MUSE_KEY_s021 "請按按鍵"
+#endif
+#ifndef MUSE_KEY_s022
+#define MUSE_KEY_s022 "請設定 Wi-Fi"
+#endif
+#ifndef MUSE_KEY_s023
+#define MUSE_KEY_s023 "輕觸拍照"
+#endif
+#ifndef MUSE_KEY_s024
+#define MUSE_KEY_s024 "輕觸確認配對"
+#endif
+#ifndef MUSE_KEY_s025
+#define MUSE_KEY_s025 "輕觸螢幕"
+#endif
+#ifndef MUSE_KEY_s026
+#define MUSE_KEY_s026 "連線中"
+#endif
+#ifndef MUSE_KEY_s027
+#define MUSE_KEY_s027 "配對碼"
+#endif
+#ifndef MUSE_KEY_s028
+#define MUSE_KEY_s028 "重新連線中"
+#endif
+#ifndef MUSE_KEY_s029
+#define MUSE_KEY_s029 "長按開啟喇叭"
+#endif
+#ifndef MUSE_KEY_s030
+#define MUSE_KEY_s030 "長按關閉喇叭"
+#endif
+#ifndef MUSE_KEY_s031
+#define MUSE_KEY_s031 "電量 %d%%"
+#endif
+#ifndef MUSE_KEY_s032
+#define MUSE_KEY_s032 "%u 幣"
+#endif
+#ifndef MUSE_KEY_s033
+#define MUSE_KEY_s033 "今天已領滿 30 枚\n明天再來摸摸"
+#endif
+#ifndef MUSE_KEY_s034
+#define MUSE_KEY_s034 "今天想吃什麼？"
+#endif
+#ifndef MUSE_KEY_s035
+#define MUSE_KEY_s035 "今天的狀態"
+#endif
+#ifndef MUSE_KEY_s036
+#define MUSE_KEY_s036 "今日的一支籤"
+#endif
+#ifndef MUSE_KEY_s037
+#define MUSE_KEY_s037 "儲存失敗，這次沒有扣款"
+#endif
+#ifndef MUSE_KEY_s038
+#define MUSE_KEY_s038 "吃飽了，先休息一下"
+#endif
+#ifndef MUSE_KEY_s039
+#define MUSE_KEY_s039 "已領 30 枚，正在自動對時\n連線校準後才能確認新的一天"
+#endif
+#ifndef MUSE_KEY_s040
+#define MUSE_KEY_s040 "心情"
+#endif
+#ifndef MUSE_KEY_s041
+#define MUSE_KEY_s041 "摸摸賺到 1 金幣！"
+#endif
+#ifndef MUSE_KEY_s042
+#define MUSE_KEY_s042 "日期正在校準，稍後再摸摸\n已領金幣不會消失"
+#endif
+#ifndef MUSE_KEY_s043
+#define MUSE_KEY_s043 "等一下再摸摸我"
+#endif
+#ifndef MUSE_KEY_s044
+#define MUSE_KEY_s044 "等一下再餵我"
+#endif
+#ifndef MUSE_KEY_s045
+#define MUSE_KEY_s045 "精神"
+#endif
+#ifndef MUSE_KEY_s046
+#define MUSE_KEY_s046 "資料忙碌中，請稍後再試"
+#endif
+#ifndef MUSE_KEY_s047
+#define MUSE_KEY_s047 "資料載入中"
+#endif
+#ifndef MUSE_KEY_s048
+#define MUSE_KEY_s048 "金幣 %lu\n今日摸頭 %lu / 30"
+#endif
+#ifndef MUSE_KEY_s049
+#define MUSE_KEY_s049 "金幣不夠，摸摸我就能賺金幣"
+#endif
+#ifndef MUSE_KEY_s050
+#define MUSE_KEY_s050 "飽腹"
+#endif
+#ifndef MUSE_KEY_s051
+#define MUSE_KEY_s051 "點空白處返回"
+#endif
+#ifndef MUSE_KEY_s052
+#define MUSE_KEY_s052 " 往下"
+#endif
+#ifndef MUSE_KEY_s053
+#define MUSE_KEY_s053 "%d分"
+#endif
+#ifndef MUSE_KEY_s054
+#define MUSE_KEY_s054 "%d小時%02d分"
+#endif
+#ifndef MUSE_KEY_s055
+#define MUSE_KEY_s055 "%s %s\n電量 %d>%d%%\n耗電 %s\n續航 %s\n關螢幕 %s\n休眠 %s\n喚醒 %s\n忙碌 %s"
+#endif
+#ifndef MUSE_KEY_s056
+#define MUSE_KEY_s056 "1 分鐘"
+#endif
+#ifndef MUSE_KEY_s057
+#define MUSE_KEY_s057 "10 分鐘"
+#endif
+#ifndef MUSE_KEY_s058
+#define MUSE_KEY_s058 "2 分鐘"
+#endif
+#ifndef MUSE_KEY_s059
+#define MUSE_KEY_s059 "30 秒"
+#endif
+#ifndef MUSE_KEY_s060
+#define MUSE_KEY_s060 "5 分鐘"
+#endif
+#ifndef MUSE_KEY_s061
+#define MUSE_KEY_s061 "Enter 確認 "
+#endif
+#ifndef MUSE_KEY_s062
+#define MUSE_KEY_s062 "Esc 取消"
+#endif
+#ifndef MUSE_KEY_s063
+#define MUSE_KEY_s063 "Esc 返回"
+#endif
+#ifndef MUSE_KEY_s064
+#define MUSE_KEY_s064 "Wi-Fi %s\nIP %s\n連線 %s\nMuse %s\n手機 %s\n電源 %s\n版本 %s"
+#endif
+#ifndef MUSE_KEY_s065
+#define MUSE_KEY_s065 "上次測量"
+#endif
+#ifndef MUSE_KEY_s066
+#define MUSE_KEY_s066 "亮度"
+#endif
+#ifndef MUSE_KEY_s067
+#define MUSE_KEY_s067 "切換"
+#endif
+#ifndef MUSE_KEY_s068
+#define MUSE_KEY_s068 "取消"
+#endif
+#ifndef MUSE_KEY_s069
+#define MUSE_KEY_s069 "喇叭"
+#endif
+#ifndef MUSE_KEY_s070
+#define MUSE_KEY_s070 "失敗"
+#endif
+#ifndef MUSE_KEY_s071
+#define MUSE_KEY_s071 "往下 "
+#endif
+#ifndef MUSE_KEY_s072
+#define MUSE_KEY_s072 "手機相機"
+#endif
+#ifndef MUSE_KEY_s073
+#define MUSE_KEY_s073 "手機設定"
+#endif
+#ifndef MUSE_KEY_s074
+#define MUSE_KEY_s074 "找不到"
+#endif
+#ifndef MUSE_KEY_s075
+#define MUSE_KEY_s075 "拔除 USB\n即可測量\n電池續航時間。"
+#endif
+#ifndef MUSE_KEY_s076
+#define MUSE_KEY_s076 "未設定"
+#endif
+#ifndef MUSE_KEY_s077
+#define MUSE_KEY_s077 "未連接手機"
+#endif
+#ifndef MUSE_KEY_s078
+#define MUSE_KEY_s078 "永不"
+#endif
+#ifndef MUSE_KEY_s079
+#define MUSE_KEY_s079 "狀態"
+#endif
+#ifndef MUSE_KEY_s080
+#define MUSE_KEY_s080 "約 %d 小時"
+#endif
+#ifndef MUSE_KEY_s081
+#define MUSE_KEY_s081 "自動休眠"
+#endif
+#ifndef MUSE_KEY_s082
+#define MUSE_KEY_s082 "自訂"
+#endif
+#ifndef MUSE_KEY_s083
+#define MUSE_KEY_s083 "要忘記 Wi-Fi 與 Muse App 配對，並重新啟動嗎？"
+#endif
+#ifndef MUSE_KEY_s084
+#define MUSE_KEY_s084 "要關機嗎？\n\n按%s按鍵可重新開機。"
+#endif
+#ifndef MUSE_KEY_s085
+#define MUSE_KEY_s085 "調整"
+#endif
+#ifndef MUSE_KEY_s086
+#define MUSE_KEY_s086 "返回"
+#endif
+#ifndef MUSE_KEY_s087
+#define MUSE_KEY_s087 "連接中"
+#endif
+#ifndef MUSE_KEY_s088
+#define MUSE_KEY_s088 "選單  ^v 移動  <> 調整"
+#endif
+#ifndef MUSE_KEY_s089
+#define MUSE_KEY_s089 "選單"
+#endif
+#ifndef MUSE_KEY_s090
+#define MUSE_KEY_s090 "選擇"
+#endif
+#ifndef MUSE_KEY_s091
+#define MUSE_KEY_s091 "重設"
+#endif
+#ifndef MUSE_KEY_s092
+#define MUSE_KEY_s092 "重設中..."
+#endif
+#ifndef MUSE_KEY_s093
+#define MUSE_KEY_s093 "重設配對"
+#endif
+#ifndef MUSE_KEY_s094
+#define MUSE_KEY_s094 "開啟"
+#endif
+#ifndef MUSE_KEY_s095
+#define MUSE_KEY_s095 "關機"
+#endif
+#ifndef MUSE_KEY_s096
+#define MUSE_KEY_s096 "關閉"
+#endif
+#ifndef MUSE_KEY_s097
+#define MUSE_KEY_s097 "關閉螢幕"
+#endif
+#ifndef MUSE_KEY_s098
+#define MUSE_KEY_s098 "關閉選單"
+#endif
+#ifndef MUSE_KEY_s099
+#define MUSE_KEY_s099 "離線"
+#endif
+#ifndef MUSE_KEY_s100
+#define MUSE_KEY_s100 "電池"
+#endif
+#ifndef MUSE_KEY_s101
+#define MUSE_KEY_s101 "電池供電"
+#endif
+#ifndef MUSE_KEY_s102
+#define MUSE_KEY_s102 "音量"
+#endif
+#ifndef MUSE_KEY_s103
+#define MUSE_KEY_s103 "麥克風增益"
+#endif
+#ifndef MUSE_KEY_s104
+#define MUSE_KEY_s104 "仍有語音訊息等待傳送"
+#endif
+#ifndef MUSE_KEY_s105
+#define MUSE_KEY_s105 "傳送已儲存的語音訊息"
+#endif
+#ifndef MUSE_KEY_s106
+#define MUSE_KEY_s106 "傳送語音訊息中"
+#endif
+#ifndef MUSE_KEY_s107
+#define MUSE_KEY_s107 "已傳送儲存的語音訊息"
+#endif
+#ifndef MUSE_KEY_s108
+#define MUSE_KEY_s108 "已傳送，等待 Muse 回覆"
+#endif
+#ifndef MUSE_KEY_s109
+#define MUSE_KEY_s109 "已儲存，稍後重試"
+#endif
+#ifndef MUSE_KEY_s110
+#define MUSE_KEY_s110 "已儲存，連線後將傳送"
+#endif
+#ifndef MUSE_KEY_s111
+#define MUSE_KEY_s111 "無法傳送儲存的語音訊息"
+#endif
+#ifndef MUSE_KEY_s112
+#define MUSE_KEY_s112 "無法儲存語音訊息"
+#endif
+#ifndef MUSE_KEY_s113
+#define MUSE_KEY_s113 "無法連線至 Muse"
+#endif
+#ifndef MUSE_KEY_s114
+#define MUSE_KEY_s114 "聆聽中..."
+#endif
+#ifndef MUSE_KEY_s115
+#define MUSE_KEY_s115 "語音訊息已儲存，稍後重試"
+#endif
+#ifndef MUSE_KEY_s116
+#define MUSE_KEY_s116 "請先設定 Muse"
+#endif
+#ifndef MUSE_KEY_s117
+#define MUSE_KEY_s117 "請按住久一點再說話"
+#endif
+#ifndef MUSE_KEY_s118
+#define MUSE_KEY_s118 "錄音中"
+#endif
+#ifndef MUSE_KEY_s119
+#define MUSE_KEY_s119 "錄音中..."
+#endif
+#ifndef MUSE_KEY_s120
+#define MUSE_KEY_s120 "音訊初始化失敗"
+#endif
+#ifndef MUSE_KEY_s121
+#define MUSE_KEY_s121 "啟動中..."
+#endif
+#ifndef MUSE_KEY_s122
+#define MUSE_KEY_s122 "等待手機連線..."
+#endif
+#ifndef MUSE_KEY_s123
+#define MUSE_KEY_s123 "請在手機開啟 Muse Gadgets Test"
+#endif
+#ifndef MUSE_KEY_s124
+#define MUSE_KEY_s124 "App 已連線"
+#endif
+#ifndef MUSE_KEY_s125
+#define MUSE_KEY_s125 "Muse 未收到訊息"
+#endif
+#ifndef MUSE_KEY_s126
+#define MUSE_KEY_s126 "VM 拒絕此權杖"
+#endif
+#ifndef MUSE_KEY_s127
+#define MUSE_KEY_s127 "VM 連線失敗，請檢查伺服器狀態"
+#endif
+#ifndef MUSE_KEY_s128
+#define MUSE_KEY_s128 "側邊"
+#endif
+#ifndef MUSE_KEY_s129
+#define MUSE_KEY_s129 "右側"
+#endif
+#ifndef MUSE_KEY_s130
+#define MUSE_KEY_s130 "安全連線建立失敗"
+#endif
+#ifndef MUSE_KEY_s131
+#define MUSE_KEY_s131 "尚未收到 Muse 回覆"
+#endif
+#ifndef MUSE_KEY_s132
+#define MUSE_KEY_s132 "尚未設定 Muse"
+#endif
+#ifndef MUSE_KEY_s133
+#define MUSE_KEY_s133 "尚未設定"
+#endif
+#ifndef MUSE_KEY_s134
+#define MUSE_KEY_s134 "尚未配對"
+#endif
+#ifndef MUSE_KEY_s135
+#define MUSE_KEY_s135 "左側"
+#endif
+#ifndef MUSE_KEY_s136
+#define MUSE_KEY_s136 "已上線"
+#endif
+#ifndef MUSE_KEY_s137
+#define MUSE_KEY_s137 "已中斷"
+#endif
+#ifndef MUSE_KEY_s138
+#define MUSE_KEY_s138 "已儲存"
+#endif
+#ifndef MUSE_KEY_s139
+#define MUSE_KEY_s139 "已取消"
+#endif
+#ifndef MUSE_KEY_s140
+#define MUSE_KEY_s140 "權杖遭拒"
+#endif
+#ifndef MUSE_KEY_s141
+#define MUSE_KEY_s141 "沒有聽清楚，請再說一次"
+#endif
+#ifndef MUSE_KEY_s142
+#define MUSE_KEY_s142 "準備配對"
+#endif
+#ifndef MUSE_KEY_s143
+#define MUSE_KEY_s143 "無法接收回覆通知"
+#endif
+#ifndef MUSE_KEY_s144
+#define MUSE_KEY_s144 "無法連接，正在重試"
+#endif
+#ifndef MUSE_KEY_s145
+#define MUSE_KEY_s145 "無法連線"
+#endif
+#ifndef MUSE_KEY_s146
+#define MUSE_KEY_s146 "無法連線至 Muse 伺服器"
+#endif
+#ifndef MUSE_KEY_s147
+#define MUSE_KEY_s147 "無法連線至伺服器"
+#endif
+#ifndef MUSE_KEY_s148
+#define MUSE_KEY_s148 "等待 Wi-Fi 連線"
+#endif
+#ifndef MUSE_KEY_s149
+#define MUSE_KEY_s149 "網路連線錯誤"
+#endif
+#ifndef MUSE_KEY_s150
+#define MUSE_KEY_s150 "與 Muse 的連線已中斷"
+#endif
+#ifndef MUSE_KEY_s151
+#define MUSE_KEY_s151 "記憶體不足"
+#endif
+#ifndef MUSE_KEY_s152
+#define MUSE_KEY_s152 "設定已變更"
+#endif
+#ifndef MUSE_KEY_s153
+#define MUSE_KEY_s153 "說話時會自動連線"
+#endif
+#ifndef MUSE_KEY_s154
+#define MUSE_KEY_s154 "請在 Muse App 中配對"
+#endif
+#ifndef MUSE_KEY_s155
+#define MUSE_KEY_s155 "請確認配對"
+#endif
+#ifndef MUSE_KEY_s156
+#define MUSE_KEY_s156 "連接中..."
+#endif
+#ifndef MUSE_KEY_s157
+#define MUSE_KEY_s157 "連線中..."
+#endif
+#ifndef MUSE_KEY_s158
+#define MUSE_KEY_s158 "附近沒有已儲存的網路"
+#endif
+#ifndef MUSE_KEY_s159
+#define MUSE_KEY_s159 "電源"
+#endif
+#ifndef MUSE_KEY_s160
+#define MUSE_KEY_s160 "頂部"
+#endif
+#ifndef MUSE_KEY_s161
+#define MUSE_KEY_s161 "裝置狀態"
+#endif
+#ifndef MUSE_KEY_s162
+#define MUSE_KEY_s162 "不戴"
+#endif
+#ifndef MUSE_KEY_s163
+#define MUSE_KEY_s163 "休閒上衣"
+#endif
+#ifndef MUSE_KEY_s164
+#define MUSE_KEY_s164 "健身房"
+#endif
+#ifndef MUSE_KEY_s165
+#define MUSE_KEY_s165 "儲存中…"
+#endif
+#ifndef MUSE_KEY_s166
+#define MUSE_KEY_s166 "儲存失敗，已恢復原本穿搭"
+#endif
+#ifndef MUSE_KEY_s167
+#define MUSE_KEY_s167 "咖啡廳"
+#endif
+#ifndef MUSE_KEY_s168
+#define MUSE_KEY_s168 "圍巾"
+#endif
+#ifndef MUSE_KEY_s169
+#define MUSE_KEY_s169 "圍裙"
+#endif
+#ifndef MUSE_KEY_s170
+#define MUSE_KEY_s170 "墨鏡"
+#endif
+#ifndef MUSE_KEY_s171
+#define MUSE_KEY_s171 "套用"
+#endif
+#ifndef MUSE_KEY_s172
+#define MUSE_KEY_s172 "客廳"
+#endif
+#ifndef MUSE_KEY_s173
+#define MUSE_KEY_s173 "尚未能儲存，請稍後再試"
+#endif
+#ifndef MUSE_KEY_s174
+#define MUSE_KEY_s174 "戴墨鏡"
+#endif
+#ifndef MUSE_KEY_s175
+#define MUSE_KEY_s175 "房間"
+#endif
+#ifndef MUSE_KEY_s176
+#define MUSE_KEY_s176 "換裝"
+#endif
+#ifndef MUSE_KEY_s177
+#define MUSE_KEY_s177 "斜背包"
+#endif
+#ifndef MUSE_KEY_s178
+#define MUSE_KEY_s178 "書桌旁"
+#endif
+#ifndef MUSE_KEY_s179
+#define MUSE_KEY_s179 "服裝"
+#endif
+#ifndef MUSE_KEY_s180
+#define MUSE_KEY_s180 "不加配件"
+#endif
+#ifndef MUSE_KEY_s181
+#define MUSE_KEY_s181 "背景"
+#endif
+#ifndef MUSE_KEY_s182
+#define MUSE_KEY_s182 "背景可上下捲動，套用後保留"
+#endif
+#ifndef MUSE_KEY_s183
+#define MUSE_KEY_s183 "運動服"
+#endif
+#ifndef MUSE_KEY_s184
+#define MUSE_KEY_s184 "選擇立即預覽，套用後保留"
+#endif
+#ifndef MUSE_KEY_s185
+#define MUSE_KEY_s185 "飾品"
+#endif
+#ifndef MUSE_KEY_s186
+#define MUSE_KEY_s186 "黑底"
+#endif
+#ifndef MUSE_KEY_s187
+#define MUSE_KEY_s187 "主對話"
+#endif
+#ifndef MUSE_KEY_s188
+#define MUSE_KEY_s188 "回覆全文"
+#endif
+#ifndef MUSE_KEY_s189
+#define MUSE_KEY_s189 "最近 8 則回覆，重開機會清除"
+#endif
+#ifndef MUSE_KEY_s190
+#define MUSE_KEY_s190 "最近訊息"
+#endif
+#ifndef MUSE_KEY_s191
+#define MUSE_KEY_s191 "記憶體不足，部分訊息未保留"
+#endif
+#ifndef MUSE_KEY_s192
+#define MUSE_KEY_s192 "這則回覆沒有文字"
+#endif
+#ifndef MUSE_KEY_s193
+#define MUSE_KEY_s193 "這則訊息已更新，請返回列表"
+#endif
+#ifndef MUSE_KEY_s194
+#define MUSE_KEY_s194 "還沒有收到回覆\n先和 Muse 說句話吧！"
+#endif
+#ifndef MUSE_KEY_s195
+#define MUSE_KEY_s195 "空白"
+#endif
+#ifndef MUSE_KEY_s196
+#define MUSE_KEY_s196 "隱藏"
+#endif
+#ifndef MUSE_KEY_s197
+#define MUSE_KEY_s197 "顯示"
+#endif
+#ifndef MUSE_KEY_s198
+#define MUSE_KEY_s198 "中吉"
+#endif
+#ifndef MUSE_KEY_s199
+#define MUSE_KEY_s199 "吉"
+#endif
+#ifndef MUSE_KEY_s200
+#define MUSE_KEY_s200 "大吉"
+#endif
+#ifndef MUSE_KEY_s201
+#define MUSE_KEY_s201 "小吉"
+#endif
+#ifndef MUSE_KEY_s202
+#define MUSE_KEY_s202 "末吉"
+#endif
+#ifndef MUSE_KEY_s203
+#define MUSE_KEY_s203 "吉：今天的咖啡，可能特別香。"
+#endif
+#ifndef MUSE_KEY_s204
+#define MUSE_KEY_s204 "吉：今天適合跟喜歡的人說聲嗨。"
+#endif
+#ifndef MUSE_KEY_s205
+#define MUSE_KEY_s205 "吉：你的努力，有人在心裡記著。"
+#endif
+#ifndef MUSE_KEY_s206
+#define MUSE_KEY_s206 "吉：喝口水，靈感就快到了。"
+#endif
+#ifndef MUSE_KEY_s207
+#define MUSE_KEY_s207 "吉：慢慢來，也會走到喜歡的地方。"
+#endif
+#ifndef MUSE_KEY_s208
+#define MUSE_KEY_s208 "吉：把一件小事做好，就很值得開心。"
+#endif
+#ifndef MUSE_KEY_s209
+#define MUSE_KEY_s209 "吉：留一點時間給自己，好事會發芽。"
+#endif
+#ifndef MUSE_KEY_s210
+#define MUSE_KEY_s210 "咖啡"
+#endif
+#ifndef MUSE_KEY_s211
+#define MUSE_KEY_s211 "大吉：今天的小勇氣，會帶來好消息。"
+#endif
+#ifndef MUSE_KEY_s212
+#define MUSE_KEY_s212 "大吉：喜歡的事，現在就開始吧。"
+#endif
+#ifndef MUSE_KEY_s213
+#define MUSE_KEY_s213 "大吉：好運正在靠近，記得接住。"
+#endif
+#ifndef MUSE_KEY_s214
+#define MUSE_KEY_s214 "小吉：一個微笑，能讓今天更順。"
+#endif
+#ifndef MUSE_KEY_s215
+#define MUSE_KEY_s215 "小吉：先吃點好吃的，再想下一步。"
+#endif
+#ifndef MUSE_KEY_s216
+#define MUSE_KEY_s216 "小吉：別急著完美，先完成就很好。"
+#endif
+#ifndef MUSE_KEY_s217
+#define MUSE_KEY_s217 "小吉：散個步，讓心情換個位置。"
+#endif
+#ifndef MUSE_KEY_s218
+#define MUSE_KEY_s218 "小吉：跟直覺走一小步看看。"
+#endif
+#ifndef MUSE_KEY_s219
+#define MUSE_KEY_s219 "小提醒：事情太多，就先做最小的一件。"
+#endif
+#ifndef MUSE_KEY_s220
+#define MUSE_KEY_s220 "小提醒：今天先別跟自己過不去。"
+#endif
+#ifndef MUSE_KEY_s221
+#define MUSE_KEY_s221 "小提醒：今晚早點睡，明天再發光。"
+#endif
+#ifndef MUSE_KEY_s222
+#define MUSE_KEY_s222 "小提醒：休息不是偷懶，是在充電。"
+#endif
+#ifndef MUSE_KEY_s223
+#define MUSE_KEY_s223 "小提醒：別忘了吃飯，也別忘了你很棒。"
+#endif
+#ifndef MUSE_KEY_s224
+#define MUSE_KEY_s224 "滷肉飯"
+#endif
+#ifndef MUSE_KEY_s225
+#define MUSE_KEY_s225 "火鍋"
+#endif
+#ifndef MUSE_KEY_s226
+#define MUSE_KEY_s226 "珍奶"
+#endif
+#ifndef MUSE_KEY_s227
+#define MUSE_KEY_s227 "蛋糕"
+#endif
+#ifndef MUSE_KEY_s228
+#define MUSE_KEY_s228 "雞排"
+#endif
+#ifndef MUSE_KEY_s229
+#define MUSE_KEY_s229 "再見！"
+#endif
+#ifndef MUSE_KEY_s230
+#define MUSE_KEY_s230 "手機設定：%s"
+#endif
+#ifndef MUSE_KEY_s231
+#define MUSE_KEY_s231 "無法關機"
+#endif
+#ifndef MUSE_KEY_s232
+#define MUSE_KEY_s232 "繼續按住以關機"
+#endif
+#ifndef MUSE_KEY_s233
+#define MUSE_KEY_s233 "  掃描網路"
+#endif
+#ifndef MUSE_KEY_s234
+#define MUSE_KEY_s234 "  立即休眠"
+#endif
+#ifndef MUSE_KEY_s235
+#define MUSE_KEY_s235 "  重新測量"
+#endif
+#ifndef MUSE_KEY_s236
+#define MUSE_KEY_s236 "  關機"
+#endif
+#ifndef MUSE_KEY_s237
+#define MUSE_KEY_s237 "%d 分鐘"
+#endif
+#ifndef MUSE_KEY_s238
+#define MUSE_KEY_s238 "%d 小時 %d 分鐘"
+#endif
+#ifndef MUSE_KEY_s239
+#define MUSE_KEY_s239 "CPU 忙碌"
+#endif
+#ifndef MUSE_KEY_s240
+#define MUSE_KEY_s240 "MAC 位址"
+#endif
+#ifndef MUSE_KEY_s241
+#define MUSE_KEY_s241 "Muse 伺服器"
+#endif
+#ifndef MUSE_KEY_s242
+#define MUSE_KEY_s242 "SDK 權杖"
+#endif
+#ifndef MUSE_KEY_s243
+#define MUSE_KEY_s243 "VM 識別碼"
+#endif
+#ifndef MUSE_KEY_s244
+#define MUSE_KEY_s244 "上次使用電池：%s"
+#endif
+#ifndef MUSE_KEY_s245
+#define MUSE_KEY_s245 "不在附近"
+#endif
+#ifndef MUSE_KEY_s246
+#define MUSE_KEY_s246 "不是有效的權杖"
+#endif
+#ifndef MUSE_KEY_s247
+#define MUSE_KEY_s247 "互動音效"
+#endif
+#ifndef MUSE_KEY_s248
+#define MUSE_KEY_s248 "休眠"
+#endif
+#ifndef MUSE_KEY_s249
+#define MUSE_KEY_s249 "伺服器"
+#endif
+#ifndef MUSE_KEY_s250
+#define MUSE_KEY_s250 "僅有麥克風"
+#endif
+#ifndef MUSE_KEY_s251
+#define MUSE_KEY_s251 "充滿電可用"
+#endif
+#ifndef MUSE_KEY_s252
+#define MUSE_KEY_s252 "其他網路"
+#endif
+#ifndef MUSE_KEY_s253
+#define MUSE_KEY_s253 "其他網路..."
+#endif
+#ifndef MUSE_KEY_s254
+#define MUSE_KEY_s254 "再次輕觸以重設"
+#endif
+#ifndef MUSE_KEY_s255
+#define MUSE_KEY_s255 "加密"
+#endif
+#ifndef MUSE_KEY_s256
+#define MUSE_KEY_s256 "另有以下項目阻止休眠：%s"
+#endif
+#ifndef MUSE_KEY_s257
+#define MUSE_KEY_s257 "喚醒次數"
+#endif
+#ifndef MUSE_KEY_s258
+#define MUSE_KEY_s258 "密碼"
+#endif
+#ifndef MUSE_KEY_s259
+#define MUSE_KEY_s259 "尚未儲存網路，請掃描並選擇網路。"
+#endif
+#ifndef MUSE_KEY_s260
+#define MUSE_KEY_s260 "已使用電池 %s"
+#endif
+#ifndef MUSE_KEY_s261
+#define MUSE_KEY_s261 "已儲存  "
+#endif
+#ifndef MUSE_KEY_s262
+#define MUSE_KEY_s262 "已儲存的網路"
+#endif
+#ifndef MUSE_KEY_s263
+#define MUSE_KEY_s263 "已在此設定"
+#endif
+#ifndef MUSE_KEY_s264
+#define MUSE_KEY_s264 "已用電量"
+#endif
+#ifndef MUSE_KEY_s265
+#define MUSE_KEY_s265 "已設定"
+#endif
+#ifndef MUSE_KEY_s266
+#define MUSE_KEY_s266 "已設定（隱藏）"
+#endif
+#ifndef MUSE_KEY_s267
+#define MUSE_KEY_s267 "已連接 %s\n%s  -  %d dBm"
+#endif
+#ifndef MUSE_KEY_s268
+#define MUSE_KEY_s268 "已連接 %s\n%s"
+#endif
+#ifndef MUSE_KEY_s269
+#define MUSE_KEY_s269 "已配對"
+#endif
+#ifndef MUSE_KEY_s270
+#define MUSE_KEY_s270 "已靜音"
+#endif
+#ifndef MUSE_KEY_s271
+#define MUSE_KEY_s271 "忘記已配對的手機"
+#endif
+#ifndef MUSE_KEY_s272
+#define MUSE_KEY_s272 "手機已連線\n%s"
+#endif
+#ifndef MUSE_KEY_s273
+#define MUSE_KEY_s273 "找不到網路"
+#endif
+#ifndef MUSE_KEY_s274
+#define MUSE_KEY_s274 "拔除 USB 即可開始測量。"
+#endif
+#ifndef MUSE_KEY_s275
+#define MUSE_KEY_s275 "拔除 USB 後開始測量，重新插入後結束。電量以 1% 為單位更新，請持續測量數小時。「晶片休眠」為淺層睡眠時間；「CPU 忙碌」為核心執行工作的時間。"
+#endif
+#ifndef MUSE_KEY_s276
+#define MUSE_KEY_s276 "按%s按鍵可重新開機。"
+#endif
+#ifndef MUSE_KEY_s277
+#define MUSE_KEY_s277 "按%s按鍵可重新開機。若只要關閉螢幕，請按%s按鍵。"
+#endif
+#ifndef MUSE_KEY_s278
+#define MUSE_KEY_s278 "掃描中..."
+#endif
+#ifndef MUSE_KEY_s279
+#define MUSE_KEY_s279 "晶片休眠"
+#endif
+#ifndef MUSE_KEY_s280
+#define MUSE_KEY_s280 "最多可儲存 8 個網路，並自動連接範圍內訊號最強的網路。連點已儲存的網路兩次即可忘記。"
+#endif
+#ifndef MUSE_KEY_s281
+#define MUSE_KEY_s281 "未偵測到電池"
+#endif
+#ifndef MUSE_KEY_s282
+#define MUSE_KEY_s282 "正在連接 %s\n%s"
+#endif
+#ifndef MUSE_KEY_s283
+#define MUSE_KEY_s283 "測試連線"
+#endif
+#ifndef MUSE_KEY_s284
+#define MUSE_KEY_s284 "測量中"
+#endif
+#ifndef MUSE_KEY_s285
+#define MUSE_KEY_s285 "無"
+#endif
+#ifndef MUSE_KEY_s286
+#define MUSE_KEY_s286 "無法連接 %s\n%s"
+#endif
+#ifndef MUSE_KEY_s287
+#define MUSE_KEY_s287 "無音訊功能"
+#endif
+#ifndef MUSE_KEY_s288
+#define MUSE_KEY_s288 "留空以使用預設值"
+#endif
+#ifndef MUSE_KEY_s289
+#define MUSE_KEY_s289 "留空可保留目前權杖"
+#endif
+#ifndef MUSE_KEY_s290
+#define MUSE_KEY_s290 "留空可保留目前權杖；輸入新權杖後會重新啟動"
+#endif
+#ifndef MUSE_KEY_s291
+#define MUSE_KEY_s291 "目前已用 %d%%"
+#endif
+#ifndef MUSE_KEY_s292
+#define MUSE_KEY_s292 "等待配對"
+#endif
+#ifndef MUSE_KEY_s293
+#define MUSE_KEY_s293 "約可使用 %d 小時"
+#endif
+#ifndef MUSE_KEY_s294
+#define MUSE_KEY_s294 "網路名稱"
+#endif
+#ifndef MUSE_KEY_s295
+#define MUSE_KEY_s295 "與 Muse App 配對後即可使用你的帳號；在此設定裝置權杖會覆蓋配對設定。較長的權杖可透過藍牙傳送。VM 識別碼可指定使用的 VM。SDK 權杖可從 gadgets.muse.ai 取得，在此設定會取代韌體內的值。重設配對會清除 Wi-Fi 與 App 配對，然後重新啟動。"
+#endif
+#ifndef MUSE_KEY_s296
+#define MUSE_KEY_s296 "藍牙"
+#endif
+#ifndef MUSE_KEY_s297
+#define MUSE_KEY_s297 "裝置權杖"
+#endif
+#ifndef MUSE_KEY_s298
+#define MUSE_KEY_s298 "要完全關閉裝置電源嗎？"
+#endif
+#ifndef MUSE_KEY_s299
+#define MUSE_KEY_s299 "設定"
+#endif
+#ifndef MUSE_KEY_s300
+#define MUSE_KEY_s300 "請在一臂距離說話：音量應達綠色範圍（-30 至 -15 dBFS），避免進入橘色範圍。"
+#endif
+#ifndef MUSE_KEY_s301
+#define MUSE_KEY_s301 "輕觸以忘記網路"
+#endif
+#ifndef MUSE_KEY_s302
+#define MUSE_KEY_s302 "輕觸螢幕或按任一按鍵即可喚醒。"
+#endif
+#ifndef MUSE_KEY_s303
+#define MUSE_KEY_s303 "選填"
+#endif
+#ifndef MUSE_KEY_s304
+#define MUSE_KEY_s304 "配對使用了其他 SDK 權杖，請重新配對以使用目前權杖"
+#endif
+#ifndef MUSE_KEY_s305
+#define MUSE_KEY_s305 "開啟後，附近的手機即可找到裝置。請使用 Chrome 開啟 tools/ble_setup.html，連線後輸入螢幕上的配對碼。"
+#endif
+#ifndef MUSE_KEY_s306
+#define MUSE_KEY_s306 "開放  "
+#endif
+#ifndef MUSE_KEY_s307
+#define MUSE_KEY_s307 "開放"
+#endif
+#ifndef MUSE_KEY_s308
+#define MUSE_KEY_s308 "開放式網路請留空"
+#endif
+#ifndef MUSE_KEY_s309
+#define MUSE_KEY_s309 "閒置多久後關閉螢幕："
+#endif
+#ifndef MUSE_KEY_s310
+#define MUSE_KEY_s310 "附近沒有已儲存的網路\n將於一分鐘內再次搜尋"
+#endif
+#ifndef MUSE_KEY_s311
+#define MUSE_KEY_s311 "隱藏網路"
+#endif
+#ifndef MUSE_KEY_s312
+#define MUSE_KEY_s312 "音效"
+#endif
+#ifndef MUSE_KEY_s313
+#define MUSE_KEY_s313 "音量 %d%%"
+#endif
+#ifndef MUSE_KEY_s314
+#define MUSE_KEY_s314 "顯示名稱：%s"
+#endif
+#ifndef MUSE_KEY_s315
+#define MUSE_KEY_s315 "麥克風音量"
+#endif
+#ifndef MUSE_KEY_s316
+#define MUSE_KEY_s316 "Muse App：%s\n%s"
+#endif
+#ifndef MUSE_KEY_s317
+#define MUSE_KEY_s317 "語言"
+#endif
+#ifndef MUSE_KEY_s318
+#define MUSE_KEY_s318 "切換語言後重新啟動"
+#endif
+#ifndef MUSE_KEY_s319
+#define MUSE_KEY_s319 "無法儲存語言，請稍後再試"
+#endif
+#ifndef MUSE_KEY_s320
+#define MUSE_KEY_s320 "English → 简体中文 → 繁體中文"
+#endif
+#ifndef MUSE_KEY_s321
+#define MUSE_KEY_s321 "BOOT"
+#endif
+
+#ifndef MUSE_KEY_s322
+#define MUSE_KEY_s322 "配件擇一，墨鏡可另外勾選"
+#endif
+
+#ifdef MUSE_STRING
+MUSE_STRING(s322, "Choose one item; glasses are optional.", "配件选一，墨镜可另外勾选", MUSE_KEY_s322)
+MUSE_STRING(s000, "%s button", "%s按键", MUSE_KEY_s000)
+MUSE_STRING(s001, "USB power", "USB 供电", MUSE_KEY_s001)
+MUSE_STRING(s002, "Wi-Fi off", "Wi-Fi 已关闭", MUSE_KEY_s002)
+MUSE_STRING(s003, "Charging %d%%", "充电中 %d%%", MUSE_KEY_s003)
+MUSE_STRING(s004, "Goodbye", "再见", MUSE_KEY_s004)
+MUSE_STRING(s005, "Starting", "启动中", MUSE_KEY_s005)
+MUSE_STRING(s006, "Speaker on", "喇叭已开启", MUSE_KEY_s006)
+MUSE_STRING(s007, "Speaker off", "喇叭已关闭", MUSE_KEY_s007)
+MUSE_STRING(s008, "Connected", "已连接", MUSE_KEY_s008)
+MUSE_STRING(s009, "Thinking", "思考中", MUSE_KEY_s009)
+MUSE_STRING(s010, "Wi-Fi disconnected", "未连上 Wi-Fi", MUSE_KEY_s010)
+MUSE_STRING(s011, "Disconnected", "未连接", MUSE_KEY_s011)
+MUSE_STRING(s012, "Ready", "准备就绪", MUSE_KEY_s012)
+MUSE_STRING(s013, "Status: %s\nWi-Fi: %s\n%s", "状态：%s\nWi-Fi：%s\n%s", MUSE_KEY_s013)
+MUSE_STRING(s014, "Error", "发生错误", MUSE_KEY_s014)
+MUSE_STRING(s015, "Listening", "聆听中", MUSE_KEY_s015)
+MUSE_STRING(s016, "Pair with the Muse app", "与 Muse App 配对", MUSE_KEY_s016)
+MUSE_STRING(s017, "Speaking", "说话中", MUSE_KEY_s017)
+MUSE_STRING(s018, "Enter on your phone", "请在手机输入", MUSE_KEY_s018)
+MUSE_STRING(s019, "Enter the pairing code on your phone", "请在手机输入配对码", MUSE_KEY_s019)
+MUSE_STRING(s020, "Press the %s button", "请按%s按键", MUSE_KEY_s020)
+MUSE_STRING(s021, "Press the button", "请按按键", MUSE_KEY_s021)
+MUSE_STRING(s022, "Set up Wi-Fi", "请设置 Wi-Fi", MUSE_KEY_s022)
+MUSE_STRING(s023, "Tap to take a photo", "轻触拍照", MUSE_KEY_s023)
+MUSE_STRING(s024, "Tap to confirm pairing", "轻触确认配对", MUSE_KEY_s024)
+MUSE_STRING(s025, "Tap the screen", "轻触荧幕", MUSE_KEY_s025)
+MUSE_STRING(s026, "Connecting", "连接中", MUSE_KEY_s026)
+MUSE_STRING(s027, "Pairing code", "配对码", MUSE_KEY_s027)
+MUSE_STRING(s028, "Reconnecting", "重新连接中", MUSE_KEY_s028)
+MUSE_STRING(s029, "Hold to enable speaker", "长按开启喇叭", MUSE_KEY_s029)
+MUSE_STRING(s030, "Hold to mute speaker", "长按关闭喇叭", MUSE_KEY_s030)
+MUSE_STRING(s031, "Battery %d%%", "电量 %d%%", MUSE_KEY_s031)
+MUSE_STRING(s032, "%u coins", "%u 币", MUSE_KEY_s032)
+MUSE_STRING(s033, "Today's 30 coins claimed\nCome back tomorrow", "今天已领满 30 枚\n明天再来摸摸", MUSE_KEY_s033)
+MUSE_STRING(s034, "What would you like to eat?", "今天想吃什么？", MUSE_KEY_s034)
+MUSE_STRING(s035, "Today's status", "今天的状态", MUSE_KEY_s035)
+MUSE_STRING(s036, "Daily fortune", "今日的一支签", MUSE_KEY_s036)
+MUSE_STRING(s037, "Save failed; no coins spent", "保存失败，这次没有扣款", MUSE_KEY_s037)
+MUSE_STRING(s038, "I'm full. Let's rest", "吃饱了，先休息一下", MUSE_KEY_s038)
+MUSE_STRING(s039, "30 coins claimed. Syncing time\nConnect to confirm a new day", "已领 30 枚，正在自动对时\n连接校准后才能确认新的一天", MUSE_KEY_s039)
+MUSE_STRING(s040, "Mood", "心情", MUSE_KEY_s040)
+MUSE_STRING(s041, "A pat earned 1 coin!", "摸摸赚到 1 金币！", MUSE_KEY_s041)
+MUSE_STRING(s042, "Syncing date. Try again soon\nYour coins are safe", "日期正在校准，稍后再摸摸\n已领金币不会消失", MUSE_KEY_s042)
+MUSE_STRING(s043, "Please wait before another pat", "等一下再摸摸我", MUSE_KEY_s043)
+MUSE_STRING(s044, "Please wait before feeding again", "等一下再喂我", MUSE_KEY_s044)
+MUSE_STRING(s045, "Energy", "精神", MUSE_KEY_s045)
+MUSE_STRING(s046, "Storage busy. Try again soon", "资料忙碌中，请稍后再试", MUSE_KEY_s046)
+MUSE_STRING(s047, "Loading", "资料载入中", MUSE_KEY_s047)
+MUSE_STRING(s048, "Coins %lu\nPats today %lu / 30", "金币 %lu\n今日摸头 %lu / 30", MUSE_KEY_s048)
+MUSE_STRING(s049, "Not enough coins. Pat me to earn some", "金币不够，摸摸我就能赚金币", MUSE_KEY_s049)
+MUSE_STRING(s050, "Fullness", "饱腹", MUSE_KEY_s050)
+MUSE_STRING(s051, "Tap outside to return", "点空白处返回", MUSE_KEY_s051)
+MUSE_STRING(s052, " Down", " 往下", MUSE_KEY_s052)
+MUSE_STRING(s053, "%dm", "%d分", MUSE_KEY_s053)
+MUSE_STRING(s054, "%dh %02dm", "%d小时%02d分", MUSE_KEY_s054)
+MUSE_STRING(s055, "%s %s\nBattery %d>%d%%\nUsed %s\nRuntime %s\nScreen off %s\nSleep %s\nWakes %s\nBusy %s", "%s %s\n电量 %d>%d%%\n耗电 %s\n续航 %s\n关荧幕 %s\n休眠 %s\n唤醒 %s\n忙碌 %s", MUSE_KEY_s055)
+MUSE_STRING(s056, "1 minute", "1 分钟", MUSE_KEY_s056)
+MUSE_STRING(s057, "10 minutes", "10 分钟", MUSE_KEY_s057)
+MUSE_STRING(s058, "2 minutes", "2 分钟", MUSE_KEY_s058)
+MUSE_STRING(s059, "30 seconds", "30 秒", MUSE_KEY_s059)
+MUSE_STRING(s060, "5 minutes", "5 分钟", MUSE_KEY_s060)
+MUSE_STRING(s061, "Enter confirm ", "Enter 确认 ", MUSE_KEY_s061)
+MUSE_STRING(s062, "Esc cancel", "Esc 取消", MUSE_KEY_s062)
+MUSE_STRING(s063, "Esc back", "Esc 返回", MUSE_KEY_s063)
+MUSE_STRING(s064, "Wi-Fi %s\nIP %s\nLink %s\nMuse %s\nPhone %s\nPower %s\nVersion %s", "Wi-Fi %s\nIP %s\n连接 %s\nMuse %s\n手机 %s\n电源 %s\n版本 %s", MUSE_KEY_s064)
+MUSE_STRING(s065, "Last measurement", "上次测量", MUSE_KEY_s065)
+MUSE_STRING(s066, "Brightness", "亮度", MUSE_KEY_s066)
+MUSE_STRING(s067, "Toggle", "切换", MUSE_KEY_s067)
+MUSE_STRING(s068, "Cancel", "取消", MUSE_KEY_s068)
+MUSE_STRING(s069, "Speaker", "喇叭", MUSE_KEY_s069)
+MUSE_STRING(s070, "Failed", "失败", MUSE_KEY_s070)
+MUSE_STRING(s071, "Down ", "往下 ", MUSE_KEY_s071)
+MUSE_STRING(s072, "Phone camera", "手机相机", MUSE_KEY_s072)
+MUSE_STRING(s073, "Phone setup", "手机设置", MUSE_KEY_s073)
+MUSE_STRING(s074, "Not found", "找不到", MUSE_KEY_s074)
+MUSE_STRING(s075, "Unplug USB\nto measure\nbattery runtime.", "拔除 USB\n即可测量\n电池续航时间。", MUSE_KEY_s075)
+MUSE_STRING(s076, "Not configured", "未设置", MUSE_KEY_s076)
+MUSE_STRING(s077, "No phone connected", "未连接手机", MUSE_KEY_s077)
+MUSE_STRING(s078, "Never", "永不", MUSE_KEY_s078)
+MUSE_STRING(s079, "Status", "状态", MUSE_KEY_s079)
+MUSE_STRING(s080, "About %d hours", "约 %d 小时", MUSE_KEY_s080)
+MUSE_STRING(s081, "Auto sleep", "自动休眠", MUSE_KEY_s081)
+MUSE_STRING(s082, "Custom", "自订", MUSE_KEY_s082)
+MUSE_STRING(s083, "Forget Wi-Fi and Muse app pairing, then restart?", "要忘记 Wi-Fi 与 Muse App 配对，并重新启动吗？", MUSE_KEY_s083)
+MUSE_STRING(s084, "Power off?\n\nPress the %s button to start again.", "要关机吗？\n\n按%s按键可重新开机。", MUSE_KEY_s084)
+MUSE_STRING(s085, "Adjust", "调整", MUSE_KEY_s085)
+MUSE_STRING(s086, "Back", "返回", MUSE_KEY_s086)
+MUSE_STRING(s087, "Joining", "连接中", MUSE_KEY_s087)
+MUSE_STRING(s088, "Menu  ^v move  <> adjust", "选单  ^v 移动  <> 调整", MUSE_KEY_s088)
+MUSE_STRING(s089, "Menu", "选单", MUSE_KEY_s089)
+MUSE_STRING(s090, "Select", "选择", MUSE_KEY_s090)
+MUSE_STRING(s091, "Reset", "重设", MUSE_KEY_s091)
+MUSE_STRING(s092, "Resetting...", "重设中...", MUSE_KEY_s092)
+MUSE_STRING(s093, "Reset pairing", "重设配对", MUSE_KEY_s093)
+MUSE_STRING(s094, "On", "开启", MUSE_KEY_s094)
+MUSE_STRING(s095, "Power off", "关机", MUSE_KEY_s095)
+MUSE_STRING(s096, "Off", "关闭", MUSE_KEY_s096)
+MUSE_STRING(s097, "Screen off", "关闭荧幕", MUSE_KEY_s097)
+MUSE_STRING(s098, "Close menu", "关闭选单", MUSE_KEY_s098)
+MUSE_STRING(s099, "Offline", "离线", MUSE_KEY_s099)
+MUSE_STRING(s100, "Battery", "电池", MUSE_KEY_s100)
+MUSE_STRING(s101, "Battery power", "电池供电", MUSE_KEY_s101)
+MUSE_STRING(s102, "Volume", "音量", MUSE_KEY_s102)
+MUSE_STRING(s103, "Mic gain", "麦克风增益", MUSE_KEY_s103)
+MUSE_STRING(s104, "Voice notes still waiting to send", "仍有语音消息等待传送", MUSE_KEY_s104)
+MUSE_STRING(s105, "Sending saved voice note", "传送已保存的语音消息", MUSE_KEY_s105)
+MUSE_STRING(s106, "Sending voice note", "传送语音消息中", MUSE_KEY_s106)
+MUSE_STRING(s107, "Saved voice note sent", "已传送保存的语音消息", MUSE_KEY_s107)
+MUSE_STRING(s108, "Sent. Waiting for Muse", "已传送，等待 Muse 回覆", MUSE_KEY_s108)
+MUSE_STRING(s109, "Saved. Will retry later", "已保存，稍后重试", MUSE_KEY_s109)
+MUSE_STRING(s110, "Saved. Will send when connected", "已保存，连接后将传送", MUSE_KEY_s110)
+MUSE_STRING(s111, "Cannot send saved voice note", "无法传送保存的语音消息", MUSE_KEY_s111)
+MUSE_STRING(s112, "Cannot save voice note", "无法保存语音消息", MUSE_KEY_s112)
+MUSE_STRING(s113, "Cannot reach Muse", "无法连接至 Muse", MUSE_KEY_s113)
+MUSE_STRING(s114, "Listening...", "聆听中...", MUSE_KEY_s114)
+MUSE_STRING(s115, "Voice note saved. Will retry", "语音消息已保存，稍后重试", MUSE_KEY_s115)
+MUSE_STRING(s116, "Set up Muse first", "请先设置 Muse", MUSE_KEY_s116)
+MUSE_STRING(s117, "Hold longer before speaking", "请按住久一点再说话", MUSE_KEY_s117)
+MUSE_STRING(s118, "Recording", "录音中", MUSE_KEY_s118)
+MUSE_STRING(s119, "Recording...", "录音中...", MUSE_KEY_s119)
+MUSE_STRING(s120, "Audio initialization failed", "音讯初始化失败", MUSE_KEY_s120)
+MUSE_STRING(s121, "Starting...", "启动中...", MUSE_KEY_s121)
+MUSE_STRING(s122, "Waiting for your phone...", "等待手机连接...", MUSE_KEY_s122)
+MUSE_STRING(s123, "Open Muse Gadgets Test on your phone", "请在手机开启 Muse Gadgets Test", MUSE_KEY_s123)
+MUSE_STRING(s124, "App connected", "App 已连接", MUSE_KEY_s124)
+MUSE_STRING(s125, "Muse did not receive the message", "Muse 未收到消息", MUSE_KEY_s125)
+MUSE_STRING(s126, "VM refused the token", "VM 拒绝此令牌", MUSE_KEY_s126)
+MUSE_STRING(s127, "VM connection failed. Check server status", "VM 连接失败，请检查伺服器状态", MUSE_KEY_s127)
+MUSE_STRING(s128, "Side", "侧边", MUSE_KEY_s128)
+MUSE_STRING(s129, "Right", "右侧", MUSE_KEY_s129)
+MUSE_STRING(s130, "Secure connection failed", "安全连接建立失败", MUSE_KEY_s130)
+MUSE_STRING(s131, "No reply from Muse", "尚未收到 Muse 回覆", MUSE_KEY_s131)
+MUSE_STRING(s132, "Muse not set up", "尚未设置 Muse", MUSE_KEY_s132)
+MUSE_STRING(s133, "Not set up", "尚未设置", MUSE_KEY_s133)
+MUSE_STRING(s134, "Not paired", "尚未配对", MUSE_KEY_s134)
+MUSE_STRING(s135, "Left", "左侧", MUSE_KEY_s135)
+MUSE_STRING(s136, "Online", "已上线", MUSE_KEY_s136)
+MUSE_STRING(s137, "Interrupted", "已中断", MUSE_KEY_s137)
+MUSE_STRING(s138, "Saved", "已保存", MUSE_KEY_s138)
+MUSE_STRING(s139, "Cancelled", "已取消", MUSE_KEY_s139)
+MUSE_STRING(s140, "Token rejected", "令牌遭拒", MUSE_KEY_s140)
+MUSE_STRING(s141, "Didn't catch that. Please try again", "没有听清楚，请再说一次", MUSE_KEY_s141)
+MUSE_STRING(s142, "Ready to pair", "准备配对", MUSE_KEY_s142)
+MUSE_STRING(s143, "Cannot subscribe to replies", "无法接收回覆通知", MUSE_KEY_s143)
+MUSE_STRING(s144, "Cannot join. Retrying", "无法连接，正在重试", MUSE_KEY_s144)
+MUSE_STRING(s145, "Cannot connect", "无法连接", MUSE_KEY_s145)
+MUSE_STRING(s146, "Cannot reach Muse's server", "无法连接至 Muse 伺服器", MUSE_KEY_s146)
+MUSE_STRING(s147, "Cannot reach server", "无法连接至伺服器", MUSE_KEY_s147)
+MUSE_STRING(s148, "Waiting for Wi-Fi", "等待 Wi-Fi 连接", MUSE_KEY_s148)
+MUSE_STRING(s149, "Network connection error", "网络连接错误", MUSE_KEY_s149)
+MUSE_STRING(s150, "Lost connection to Muse", "与 Muse 的连接已中断", MUSE_KEY_s150)
+MUSE_STRING(s151, "Out of memory", "内存不足", MUSE_KEY_s151)
+MUSE_STRING(s152, "Settings changed", "设置已变更", MUSE_KEY_s152)
+MUSE_STRING(s153, "Connects when you talk", "说话时会自动连接", MUSE_KEY_s153)
+MUSE_STRING(s154, "Pair in the Muse app", "请在 Muse App 中配对", MUSE_KEY_s154)
+MUSE_STRING(s155, "Confirm pairing", "请确认配对", MUSE_KEY_s155)
+MUSE_STRING(s156, "Joining...", "连接中...", MUSE_KEY_s156)
+MUSE_STRING(s157, "Connecting...", "连接中...", MUSE_KEY_s157)
+MUSE_STRING(s158, "No saved network nearby", "附近没有已保存的网络", MUSE_KEY_s158)
+MUSE_STRING(s159, "Power", "电源", MUSE_KEY_s159)
+MUSE_STRING(s160, "Top", "顶部", MUSE_KEY_s160)
+MUSE_STRING(s161, "Device status", "设备状态", MUSE_KEY_s161)
+MUSE_STRING(s162, "None", "不戴", MUSE_KEY_s162)
+MUSE_STRING(s163, "Casual top", "休闲上衣", MUSE_KEY_s163)
+MUSE_STRING(s164, "Gym", "健身房", MUSE_KEY_s164)
+MUSE_STRING(s165, "Saving...", "保存中…", MUSE_KEY_s165)
+MUSE_STRING(s166, "Save failed. Previous outfit restored", "保存失败，已恢复原本穿搭", MUSE_KEY_s166)
+MUSE_STRING(s167, "Cafe", "咖啡厅", MUSE_KEY_s167)
+MUSE_STRING(s168, "Scarf", "围巾", MUSE_KEY_s168)
+MUSE_STRING(s169, "Apron", "围裙", MUSE_KEY_s169)
+MUSE_STRING(s170, "Sunglasses", "墨镜", MUSE_KEY_s170)
+MUSE_STRING(s171, "Apply", "套用", MUSE_KEY_s171)
+MUSE_STRING(s172, "Living room", "客厅", MUSE_KEY_s172)
+MUSE_STRING(s173, "Cannot save yet. Try again soon", "尚未能保存，请稍后再试", MUSE_KEY_s173)
+MUSE_STRING(s174, "Wear sunglasses", "戴墨镜", MUSE_KEY_s174)
+MUSE_STRING(s175, "Bedroom", "房间", MUSE_KEY_s175)
+MUSE_STRING(s176, "Wardrobe", "换装", MUSE_KEY_s176)
+MUSE_STRING(s177, "Crossbody bag", "斜背包", MUSE_KEY_s177)
+MUSE_STRING(s178, "By the desk", "书桌旁", MUSE_KEY_s178)
+MUSE_STRING(s179, "Clothes", "服装", MUSE_KEY_s179)
+MUSE_STRING(s180, "No accessory", "无饰品", MUSE_KEY_s180)
+MUSE_STRING(s181, "Scene", "背景", MUSE_KEY_s181)
+MUSE_STRING(s182, "Scroll scenes. Apply to save", "背景可上下卷动，套用后保留", MUSE_KEY_s182)
+MUSE_STRING(s183, "Sportswear", "运动服", MUSE_KEY_s183)
+MUSE_STRING(s184, "Select to preview. Apply to save", "选择立即预览，套用后保留", MUSE_KEY_s184)
+MUSE_STRING(s185, "Accessories", "饰品", MUSE_KEY_s185)
+MUSE_STRING(s186, "Black", "黑底", MUSE_KEY_s186)
+MUSE_STRING(s187, "Main chat", "主对话", MUSE_KEY_s187)
+MUSE_STRING(s188, "Full reply", "回覆全文", MUSE_KEY_s188)
+MUSE_STRING(s189, "Last 8 replies. Cleared on restart", "最近 8 则回覆，重开机会清除", MUSE_KEY_s189)
+MUSE_STRING(s190, "Recent messages", "最近消息", MUSE_KEY_s190)
+MUSE_STRING(s191, "Low memory. Some messages were not kept", "内存不足，部分消息未保留", MUSE_KEY_s191)
+MUSE_STRING(s192, "This reply has no text", "这则回覆没有文字", MUSE_KEY_s192)
+MUSE_STRING(s193, "Message updated. Return to the list", "这则消息已更新，请返回列表", MUSE_KEY_s193)
+MUSE_STRING(s194, "No replies yet\nSay hello to Muse!", "还没有收到回覆\n先和 Muse 说句话吧！", MUSE_KEY_s194)
+MUSE_STRING(s195, "Space", "空白", MUSE_KEY_s195)
+MUSE_STRING(s196, "Hide", "隐藏", MUSE_KEY_s196)
+MUSE_STRING(s197, "Show", "显示", MUSE_KEY_s197)
+MUSE_STRING(s198, "Good luck", "中吉", MUSE_KEY_s198)
+MUSE_STRING(s199, "Luck", "吉", MUSE_KEY_s199)
+MUSE_STRING(s200, "Great luck", "大吉", MUSE_KEY_s200)
+MUSE_STRING(s201, "Small luck", "小吉", MUSE_KEY_s201)
+MUSE_STRING(s202, "Reminder", "末吉", MUSE_KEY_s202)
+MUSE_STRING(s203, "Luck: Today's coffee may taste extra good.", "吉：今天的咖啡，可能特别香。", MUSE_KEY_s203)
+MUSE_STRING(s204, "Luck: Say hello to someone you like today.", "吉：今天适合跟喜欢的人说声嗨。", MUSE_KEY_s204)
+MUSE_STRING(s205, "Luck: Someone appreciates your efforts.", "吉：你的努力，有人在心里记着。", MUSE_KEY_s205)
+MUSE_STRING(s206, "Luck: Drink some water. Inspiration is near.", "吉：喝口水，灵感就快到了。", MUSE_KEY_s206)
+MUSE_STRING(s207, "Luck: Go slowly. You will get where you want.", "吉：慢慢来，也会走到喜欢的地方。", MUSE_KEY_s207)
+MUSE_STRING(s208, "Luck: Doing one small thing well is worth celebrating.", "吉：把一件小事做好，就很值得开心。", MUSE_KEY_s208)
+MUSE_STRING(s209, "Luck: Make time for yourself. Good things will grow.", "吉：留一点时间给自己，好事会发芽。", MUSE_KEY_s209)
+MUSE_STRING(s210, "Coffee", "咖啡", MUSE_KEY_s210)
+MUSE_STRING(s211, "Great luck: A little courage brings good news today.", "大吉：今天的小勇气，会带来好消息。", MUSE_KEY_s211)
+MUSE_STRING(s212, "Great luck: Start doing what you love today.", "大吉：喜欢的事，现在就开始吧。", MUSE_KEY_s212)
+MUSE_STRING(s213, "Great luck: Good fortune is coming. Welcome it.", "大吉：好运正在靠近，记得接住。", MUSE_KEY_s213)
+MUSE_STRING(s214, "Small luck: A smile can make today easier.", "小吉：一个微笑，能让今天更顺。", MUSE_KEY_s214)
+MUSE_STRING(s215, "Small luck: Enjoy a snack before your next step.", "小吉：先吃点好吃的，再想下一步。", MUSE_KEY_s215)
+MUSE_STRING(s216, "Small luck: Done is good. Perfection can wait.", "小吉：别急着完美，先完成就很好。", MUSE_KEY_s216)
+MUSE_STRING(s217, "Small luck: Take a walk for a fresh perspective.", "小吉：散个步，让心情换个位置。", MUSE_KEY_s217)
+MUSE_STRING(s218, "Small luck: Take one small step with your intuition.", "小吉：跟直觉走一小步看看。", MUSE_KEY_s218)
+MUSE_STRING(s219, "Reminder: Too much to do? Start with the smallest task.", "小提醒：事情太多，就先做最小的一件。", MUSE_KEY_s219)
+MUSE_STRING(s220, "Reminder: Be kind to yourself today.", "小提醒：今天先别跟自己过不去。", MUSE_KEY_s220)
+MUSE_STRING(s221, "Reminder: Sleep early tonight. Shine tomorrow.", "小提醒：今晚早点睡，明天再发光。", MUSE_KEY_s221)
+MUSE_STRING(s222, "Reminder: Rest is recharging, not laziness.", "小提醒：休息不是偷懒，是在充电。", MUSE_KEY_s222)
+MUSE_STRING(s223, "Reminder: Eat well and remember you are doing great.", "小提醒：别忘了吃饭，也别忘了你很棒。", MUSE_KEY_s223)
+MUSE_STRING(s224, "Pork rice", "卤肉饭", MUSE_KEY_s224)
+MUSE_STRING(s225, "Hot pot", "火锅", MUSE_KEY_s225)
+MUSE_STRING(s226, "Bubble tea", "珍奶", MUSE_KEY_s226)
+MUSE_STRING(s227, "Cake", "蛋糕", MUSE_KEY_s227)
+MUSE_STRING(s228, "Chicken", "鸡排", MUSE_KEY_s228)
+MUSE_STRING(s229, "Goodbye!", "再见！", MUSE_KEY_s229)
+MUSE_STRING(s230, "Phone setup: %s", "手机设置：%s", MUSE_KEY_s230)
+MUSE_STRING(s231, "Cannot power off", "无法关机", MUSE_KEY_s231)
+MUSE_STRING(s232, "Keep holding to power off", "继续按住以关机", MUSE_KEY_s232)
+MUSE_STRING(s233, "  Scan networks", "  扫描网络", MUSE_KEY_s233)
+MUSE_STRING(s234, "  Sleep now", "  立即休眠", MUSE_KEY_s234)
+MUSE_STRING(s235, "  Measure again", "  重新测量", MUSE_KEY_s235)
+MUSE_STRING(s236, "  Power off", "  关机", MUSE_KEY_s236)
+MUSE_STRING(s237, "%d minutes", "%d 分钟", MUSE_KEY_s237)
+MUSE_STRING(s238, "%d hours %d minutes", "%d 小时 %d 分钟", MUSE_KEY_s238)
+MUSE_STRING(s239, "CPU busy", "CPU 忙碌", MUSE_KEY_s239)
+MUSE_STRING(s240, "MAC address", "MAC 地址", MUSE_KEY_s240)
+MUSE_STRING(s241, "Muse server", "Muse 伺服器", MUSE_KEY_s241)
+MUSE_STRING(s242, "SDK token", "SDK 令牌", MUSE_KEY_s242)
+MUSE_STRING(s243, "VM ID", "VM 识别码", MUSE_KEY_s243)
+MUSE_STRING(s244, "Last battery session: %s", "上次使用电池：%s", MUSE_KEY_s244)
+MUSE_STRING(s245, "Not nearby", "不在附近", MUSE_KEY_s245)
+MUSE_STRING(s246, "Invalid token", "不是有效的令牌", MUSE_KEY_s246)
+MUSE_STRING(s247, "Interaction sounds", "互动音效", MUSE_KEY_s247)
+MUSE_STRING(s248, "Sleep", "休眠", MUSE_KEY_s248)
+MUSE_STRING(s249, "Server", "伺服器", MUSE_KEY_s249)
+MUSE_STRING(s250, "Microphone only", "仅有麦克风", MUSE_KEY_s250)
+MUSE_STRING(s251, "Runtime on full charge", "充满电可用", MUSE_KEY_s251)
+MUSE_STRING(s252, "Other network", "其他网络", MUSE_KEY_s252)
+MUSE_STRING(s253, "Other network...", "其他网络...", MUSE_KEY_s253)
+MUSE_STRING(s254, "Tap again to reset", "再次轻触以重设", MUSE_KEY_s254)
+MUSE_STRING(s255, "Secured", "加密", MUSE_KEY_s255)
+MUSE_STRING(s256, "Also preventing sleep: %s", "另有以下项目阻止休眠：%s", MUSE_KEY_s256)
+MUSE_STRING(s257, "Wake count", "唤醒次数", MUSE_KEY_s257)
+MUSE_STRING(s258, "Password", "密码", MUSE_KEY_s258)
+MUSE_STRING(s259, "No saved networks. Scan and select a network.", "尚未保存网络，请扫描并选择网络。", MUSE_KEY_s259)
+MUSE_STRING(s260, "On battery for %s", "已使用电池 %s", MUSE_KEY_s260)
+MUSE_STRING(s261, "Saved  ", "已保存  ", MUSE_KEY_s261)
+MUSE_STRING(s262, "Saved networks", "已保存的网络", MUSE_KEY_s262)
+MUSE_STRING(s263, "Configured here", "已在此设置", MUSE_KEY_s263)
+MUSE_STRING(s264, "Battery used", "已用电量", MUSE_KEY_s264)
+MUSE_STRING(s265, "Configured", "已设置", MUSE_KEY_s265)
+MUSE_STRING(s266, "Configured (hidden)", "已设置（隐藏）", MUSE_KEY_s266)
+MUSE_STRING(s267, "Connected to %s\n%s  -  %d dBm", "已连接 %s\n%s  -  %d dBm", MUSE_KEY_s267)
+MUSE_STRING(s268, "Connected to %s\n%s", "已连接 %s\n%s", MUSE_KEY_s268)
+MUSE_STRING(s269, "Paired", "已配对", MUSE_KEY_s269)
+MUSE_STRING(s270, "Muted", "已静音", MUSE_KEY_s270)
+MUSE_STRING(s271, "Forget paired phone", "忘记已配对的手机", MUSE_KEY_s271)
+MUSE_STRING(s272, "Phone connected\n%s", "手机已连接\n%s", MUSE_KEY_s272)
+MUSE_STRING(s273, "No networks found", "找不到网络", MUSE_KEY_s273)
+MUSE_STRING(s274, "Unplug USB to start measuring.", "拔除 USB 即可开始测量。", MUSE_KEY_s274)
+MUSE_STRING(s275, "Unplug USB to start; reconnect to finish. Battery updates in 1 percent steps, so measure for several hours. Chip sleep is light sleep; CPU busy is time spent working.", "拔除 USB 后开始测量，重新插入后结束。电量以 1% 为单位更新，请持续测量数小时。「芯片休眠」为浅层睡眠时间；「CPU 忙碌」为核心执行工作的时间。", MUSE_KEY_s275)
+MUSE_STRING(s276, "Press the %s button to start again.", "按%s按键可重新开机。", MUSE_KEY_s276)
+MUSE_STRING(s277, "Press the %s button to start again. To turn off only the screen, press the %s button.", "按%s按键可重新开机。若只要关闭荧幕，请按%s按键。", MUSE_KEY_s277)
+MUSE_STRING(s278, "Scanning...", "扫描中...", MUSE_KEY_s278)
+MUSE_STRING(s279, "Chip sleep", "芯片休眠", MUSE_KEY_s279)
+MUSE_STRING(s280, "Save up to 8 networks. The strongest nearby saved network connects automatically. Tap a saved network twice to forget it.", "最多可保存 8 个网络，并自动连接范围内讯号最强的网络。连点已保存的网络两次即可忘记。", MUSE_KEY_s280)
+MUSE_STRING(s281, "No battery detected", "未侦测到电池", MUSE_KEY_s281)
+MUSE_STRING(s282, "Joining %s\n%s", "正在连接 %s\n%s", MUSE_KEY_s282)
+MUSE_STRING(s283, "Test connection", "测试连接", MUSE_KEY_s283)
+MUSE_STRING(s284, "Measuring", "测量中", MUSE_KEY_s284)
+MUSE_STRING(s285, "None", "无", MUSE_KEY_s285)
+MUSE_STRING(s286, "Cannot join %s\n%s", "无法连接 %s\n%s", MUSE_KEY_s286)
+MUSE_STRING(s287, "No audio support", "无音讯功能", MUSE_KEY_s287)
+MUSE_STRING(s288, "Leave blank for default", "留空以使用预设值", MUSE_KEY_s288)
+MUSE_STRING(s289, "Leave blank to keep the current token", "留空可保留目前令牌", MUSE_KEY_s289)
+MUSE_STRING(s290, "Leave blank to keep the current token. Entering a new token restarts the device", "留空可保留目前令牌；输入新令牌后会重新启动", MUSE_KEY_s290)
+MUSE_STRING(s291, "Used %d%% so far", "目前已用 %d%%", MUSE_KEY_s291)
+MUSE_STRING(s292, "Waiting to pair", "等待配对", MUSE_KEY_s292)
+MUSE_STRING(s293, "About %d hours remaining", "约可使用 %d 小时", MUSE_KEY_s293)
+MUSE_STRING(s294, "Network name", "网络名称", MUSE_KEY_s294)
+MUSE_STRING(s295, "Pair with the Muse app to use your account. A device token here overrides pairing. Send long tokens over Bluetooth. VM ID selects a VM. Get an SDK token at gadgets.muse.ai; setting one here overrides the compiled value. Reset pairing clears Wi-Fi and app pairing, then restarts.", "与 Muse App 配对后即可使用你的帐号；在此设置设备令牌会覆盖配对设置。较长的令牌可透过蓝牙传送。VM 识别码可指定使用的 VM。SDK 令牌可从 gadgets.muse.ai 取得，在此设置会取代韧体内的值。重设配对会清除 Wi-Fi 与 App 配对，然后重新启动。", MUSE_KEY_s295)
+MUSE_STRING(s296, "Bluetooth", "蓝牙", MUSE_KEY_s296)
+MUSE_STRING(s297, "Device token", "设备令牌", MUSE_KEY_s297)
+MUSE_STRING(s298, "Turn off device power completely?", "要完全关闭设备电源吗？", MUSE_KEY_s298)
+MUSE_STRING(s299, "Settings", "设置", MUSE_KEY_s299)
+MUSE_STRING(s300, "Speak at arm's length. Aim for the green range (-30 to -15 dBFS); avoid orange.", "请在一臂距离说话：音量应达绿色范围（-30 至 -15 dBFS），避免进入橘色范围。", MUSE_KEY_s300)
+MUSE_STRING(s301, "Tap to forget network", "轻触以忘记网络", MUSE_KEY_s301)
+MUSE_STRING(s302, "Tap the screen or press any button to wake.", "轻触荧幕或按任一按键即可唤醒。", MUSE_KEY_s302)
+MUSE_STRING(s303, "Optional", "选填", MUSE_KEY_s303)
+MUSE_STRING(s304, "Pairing used a different SDK token. Pair again to use the current token", "配对使用了其他 SDK 令牌，请重新配对以使用目前令牌", MUSE_KEY_s304)
+MUSE_STRING(s305, "Enable to make the device discoverable. Open tools/ble_setup.html in Chrome, connect, then enter the on-screen pairing code.", "开启后，附近的手机即可找到设备。请使用 Chrome 开启 tools/ble_setup.html，连接后输入荧幕上的配对码。", MUSE_KEY_s305)
+MUSE_STRING(s306, "Open  ", "开放  ", MUSE_KEY_s306)
+MUSE_STRING(s307, "Open", "开放", MUSE_KEY_s307)
+MUSE_STRING(s308, "Leave blank for an open network", "开放式网络请留空", MUSE_KEY_s308)
+MUSE_STRING(s309, "Turn off screen after:", "闲置多久后关闭荧幕：", MUSE_KEY_s309)
+MUSE_STRING(s310, "No saved network nearby\nScanning again within a minute", "附近没有已保存的网络\n将于一分钟内再次搜索", MUSE_KEY_s310)
+MUSE_STRING(s311, "Hidden network", "隐藏网络", MUSE_KEY_s311)
+MUSE_STRING(s312, "Sound", "音效", MUSE_KEY_s312)
+MUSE_STRING(s313, "Volume %d%%", "音量 %d%%", MUSE_KEY_s313)
+MUSE_STRING(s314, "Display name: %s", "显示名称：%s", MUSE_KEY_s314)
+MUSE_STRING(s315, "Microphone level", "麦克风音量", MUSE_KEY_s315)
+MUSE_STRING(s316, "Muse App: %s\n%s", "Muse App：%s\n%s", MUSE_KEY_s316)
+MUSE_STRING(s317, "Language", "语言", MUSE_KEY_s317)
+MUSE_STRING(s318, "Restart to change language", "切换语言后重新启动", MUSE_KEY_s318)
+MUSE_STRING(s319, "Cannot save language. Try again soon", "无法保存语言，请稍后再试", MUSE_KEY_s319)
+MUSE_STRING(s320, "English → 简体中文 → 繁體中文", "English → 简体中文 → 繁體中文", MUSE_KEY_s320)
+MUSE_STRING(s321, "BOOT", "BOOT", MUSE_KEY_s321)
+#endif
+
+#ifdef MUSE_ALIAS
+MUSE_ALIAS("Starting", s005)
+MUSE_ALIAS("Ready to pair", s142)
+MUSE_ALIAS("App connected", s124)
+MUSE_ALIAS("Confirm pairing", s155)
+MUSE_ALIAS("Connecting", s026)
+MUSE_ALIAS("Online", s136)
+MUSE_ALIAS("Offline", s099)
+MUSE_ALIAS("Error", s014)
+MUSE_ALIAS("Not set up", s133)
+MUSE_ALIAS("Saved", s138)
+MUSE_ALIAS("Connected", s008)
+MUSE_ALIAS("Can't connect", s145)
+MUSE_ALIAS("Pair in the Muse app", s154)
+MUSE_ALIAS("Waiting for Wi-Fi", s148)
+MUSE_ALIAS("Connects when you talk", s153)
+MUSE_ALIAS("Connecting...", s157)
+MUSE_ALIAS("Joining...", s156)
+MUSE_ALIAS("No saved network nearby", s158)
+MUSE_ALIAS("Can't join; retrying", s144)
+MUSE_ALIAS("Can't reach Muse's server", s146)
+MUSE_ALIAS("Not paired", s134)
+MUSE_ALIAS("Out of memory", s151)
+MUSE_ALIAS("Token rejected", s140)
+MUSE_ALIAS("VM refused the token", s126)
+MUSE_ALIAS("Noise handshake failed", s130)
+MUSE_ALIAS("Socket error", s149)
+MUSE_ALIAS("Subscribe failed", s143)
+MUSE_ALIAS("INTERRUPTED", s137)
+MUSE_ALIAS("CAN'T REACH MUSE", s113)
+MUSE_ALIAS("DIDN'T CATCH THAT", s141)
+MUSE_ALIAS("NO REPLY FROM MUSE", s131)
+MUSE_ALIAS("MUSE DIDN'T TAKE IT", s125)
+MUSE_ALIAS("LOST CONNECTION TO MUSE", s150)
+MUSE_ALIAS("SETTINGS CHANGED", s152)
+MUSE_ALIAS("CANCELLED", s139)
+MUSE_ALIAS("MUSE NOT SET UP", s132)
+MUSE_ALIAS("top", s160)
+MUSE_ALIAS("side", s128)
+MUSE_ALIAS("pwr", s159)
+MUSE_ALIAS("boot", s321)
+MUSE_ALIAS("left", s135)
+MUSE_ALIAS("right", s129)
+#endif

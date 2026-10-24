@@ -1,0 +1,190 @@
+{
+  "scope": "resolved managed components registered by this build; not a legal opinion or proof every file linked",
+  "components": [
+    {
+      "component": "espressif__button",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__button/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__cjson",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__cjson/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__cmake_utilities",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__cmake_utilities/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_codec_dev",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_codec_dev/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_io_expander",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_io_expander/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lcd_co5300",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lcd_co5300/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lcd_panel_io_additions",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lcd_panel_io_additions/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lcd_touch",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lcd_touch/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lv_decoder",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lv_decoder/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lv_fs",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lv_fs/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_lvgl_adapter",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_lvgl_adapter/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_mmap_assets",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_mmap_assets/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_new_jpeg",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_new_jpeg/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__esp_websocket_client",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__esp_websocket_client/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__freetype",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__freetype/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__knob",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__knob/license.txt"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__led_strip",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__led_strip/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__libpng",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__libpng/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__usb",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__usb/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "espressif__zlib",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/espressif__zlib/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "lvgl__lvgl",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/lvgl__lvgl/LICENCE.txt",
+        "third-party-licenses/lvgl__lvgl/COPYRIGHTS.md"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "waveshare__esp32_s3_touch_amoled_1_75c",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/waveshare__esp32_s3_touch_amoled_1_75c/LICENSE"
+      ],
+      "review": "license_file_retained"
+    },
+    {
+      "component": "waveshare__esp_lcd_touch_cst9217",
+      "source": "ESP component registry cache",
+      "license_files": [
+        "third-party-licenses/waveshare__esp_lcd_touch_cst9217/license.txt"
+      ],
+      "review": "license_file_retained"
+    }
+  ]
+}

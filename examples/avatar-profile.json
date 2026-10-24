@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "template": "humanoid64-v1",
+  "anchors": {
+    "left_eye": [19, 31, 28, 38],
+    "right_eye": [34, 31, 43, 38],
+    "mouth": [28, 38, 35, 43],
+    "clothing": [20, 46, 43, 54]
+  },
+  "colors": {
+    "skin": "#B78260",
+    "cheek": "#9B5F4D",
+    "mouth": "#59382E"
+  }
+}

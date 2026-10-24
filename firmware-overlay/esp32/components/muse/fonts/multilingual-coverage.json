@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "strategy": "single deduplicated union; original symbols retained; 16px 4bpp uncompressed; natural proportional advances",
+  "font_url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/TraditionalChinese/NotoSansCJKtc-Regular.otf",
+  "font_sha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "converter": "lv_font_conv 1.5.3",
+  "big5_primary": 5401,
+  "gb2312_level1": 3755,
+  "primary_union": 6722,
+  "ui_cjk_codepoints": 625,
+  "total_codepoints": 7379,
+  "source_cmap_missing": 0,
+  "generated_glyphs": 7379,
+  "charset_sha256": "ea315c13bd12d4b2db23cd64a2c5e86900ab4cbdbdbcc331813d2d37d5e94198",
+  "font_c_sha256": "2df319a1c73c986a3e79cda42977edd6c67f2e705b59a9dbec27f564745e1e0a",
+  "scope": "Defined common repertoire, not all Unicode. Rare characters, emoji and other scripts are not guaranteed. UI language selection is implemented with a restart; hardware acceptance remains pending."
+}

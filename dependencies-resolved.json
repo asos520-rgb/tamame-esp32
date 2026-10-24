@@ -1,0 +1,127 @@
+{
+  "status": "from_independent_public_default_build",
+  "target": "esp32s3",
+  "idf": "6.0.1",
+  "components": [
+    {
+      "name": "espressif/button",
+      "resolved_version": "4.2.2",
+      "component_hash": "7cb7e2944b5828f409af0c92f7fcc0e2d405de09c3325b7ee4a0eba5fb28dfdc"
+    },
+    {
+      "name": "espressif/cjson",
+      "resolved_version": "1.7.19~2",
+      "component_hash": "e788323270d90738662d66fffa910bfe1fba019bba087f01557e70c40485b469"
+    },
+    {
+      "name": "espressif/cmake_utilities",
+      "resolved_version": "0.5.3",
+      "component_hash": "351350613ceafba240b761b4ea991e0f231ac7a9f59a9ee901f751bddc0bb18f"
+    },
+    {
+      "name": "espressif/esp_codec_dev",
+      "resolved_version": "1.5.11",
+      "component_hash": "df70f10af8d7b922add7b9d07372c9c97ab356e58d72b7a892050227c2d44348"
+    },
+    {
+      "name": "espressif/esp_io_expander",
+      "resolved_version": "1.2.1",
+      "component_hash": "7b7f91270172e46ca4597e3874f48d8412e280e8c295559f5922ec38656e3e5f"
+    },
+    {
+      "name": "espressif/esp_lcd_co5300",
+      "resolved_version": "2.2.0",
+      "component_hash": "1a5cbaa0069c3c72c238e5a1eb32ec9dd390ec1c7c46b24bf44b9037f2fe6c56"
+    },
+    {
+      "name": "espressif/esp_lcd_panel_io_additions",
+      "resolved_version": "1.0.1~1",
+      "component_hash": "1856c8b2c11aaa8a9fd67481582162bcad25f7064661a995f35c2ee8dd10ebcc"
+    },
+    {
+      "name": "espressif/esp_lcd_touch",
+      "resolved_version": "1.2.1",
+      "component_hash": "3f85a7d95af876f1a6ecca8eb90a81614890d0f03a038390804e5a77e2caf862"
+    },
+    {
+      "name": "espressif/esp_lv_decoder",
+      "resolved_version": "0.4.3",
+      "component_hash": "331d23c304cea5d1aed0ad3cea7774874dbaeebb2217e8db6bf3cc8485ac9f9f"
+    },
+    {
+      "name": "espressif/esp_lv_fs",
+      "resolved_version": "1.0.1",
+      "component_hash": "66896007884b817df34c964f9a114fff538ee2674e99fee7159162498b93f94b"
+    },
+    {
+      "name": "espressif/esp_lvgl_adapter",
+      "resolved_version": "0.6.4",
+      "component_hash": "bcb316bedda9e934d32567082a969a8e8f8f406dd32d23c359a299249dc18e81"
+    },
+    {
+      "name": "espressif/esp_mmap_assets",
+      "resolved_version": "2.0.1",
+      "component_hash": "42310c362596de2a37248c2937b1754bc29cd0356b9839e2a77cf791e6bcdde1"
+    },
+    {
+      "name": "espressif/esp_new_jpeg",
+      "resolved_version": "1.0.2",
+      "component_hash": "e1e7e6991193c41ed6c9fc386702aa7821433319e7aa9c3147cd3236310cd69c"
+    },
+    {
+      "name": "espressif/esp_websocket_client",
+      "resolved_version": "1.2.3",
+      "component_hash": "ae561d39222a399ddda5e470913c3d54a3c0f53dce15b8d21a3aaa4226dd74b1"
+    },
+    {
+      "name": "espressif/freetype",
+      "resolved_version": "2.14.3~1",
+      "component_hash": "aa9f7657a69b2b1c1f49044017fc424081d4e0fe6e97834cb43883548d44e3ca"
+    },
+    {
+      "name": "espressif/knob",
+      "resolved_version": "1.1.0",
+      "component_hash": "b56694054cd34a683ac2a6f3661963ba00b1dab741a4f3bb59ed6666cbc9f3fb"
+    },
+    {
+      "name": "espressif/led_strip",
+      "resolved_version": "3.0.3",
+      "component_hash": "28621486f77229aaf81c71f5e15d6fbf36c2949cf11094e07090593e659e7639"
+    },
+    {
+      "name": "espressif/libpng",
+      "resolved_version": "1.6.59",
+      "component_hash": "9a576d8fbd0ddb29330e1f4c4fe82470b3e0e7eca71ea3bc4dce168d0b1088e3"
+    },
+    {
+      "name": "espressif/usb",
+      "resolved_version": "1.6.0",
+      "component_hash": "99eee72ea224d9117d4c342442717a1f20bf8112e2ab5d7d7038b827874f4c92"
+    },
+    {
+      "name": "espressif/zlib",
+      "resolved_version": "1.3.2~1",
+      "component_hash": "9083cada65f1c9d298ef92266232d071c6f2f335164e2799554b3eae73aedc55"
+    },
+    {
+      "name": "idf",
+      "resolved_version": "6.0.1",
+      "component_hash": null
+    },
+    {
+      "name": "lvgl/lvgl",
+      "resolved_version": "9.5.0",
+      "component_hash": "184e532558c1c45fefed631f3e235423d22582aafb4630f3e8885c35281a49ae"
+    },
+    {
+      "name": "waveshare/esp32_s3_touch_amoled_1_75c",
+      "resolved_version": "3.0.0",
+      "component_hash": "a3d1cca48e6faed9118f7b679186e498d358052afc03794e4b602541c3e0e672"
+    },
+    {
+      "name": "waveshare/esp_lcd_touch_cst9217",
+      "resolved_version": "2.0.0",
+      "component_hash": "f755f8e3ae61df23413256a6a447e367a4b844538229c183ff0e89dbbdc15319"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "format": 1,
+  "status": "targeted_ui_hardware_accepted_pending_full_validation_and_release",
+  "release_ready": false,
+  "upstream": {
+    "repository": "facebookincubator/muse-gadget-sdk",
+    "commit": "e6fe5174092702ffddae6f90759a38d55a4ebae1",
+    "license": "Apache-2.0; see retained source notices and renderer/LICENSE.sdk"
+  },
+  "target": {
+    "board": "Waveshare ESP32-S3-Touch-AMOLED-1.75C",
+    "idf": "6.0.1"
+  },
+  "overlay_root": "firmware-overlay",
+  "overlay_files": [
+    {
+      "path": "esp32/.gitignore",
+      "sha256": "3ca0314fd7f03d5f1d6578e26ad455e498450c3cb939a581b4ee08b7cf4de28f",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/CMakeLists.txt",
+      "sha256": "36a3c84075fc44ae5b2789b5edc6534ca12c028913ac1bea93d4bfff1565c9e8",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/Kconfig",
+      "sha256": "2ac9f4ef23fd3ed69a11b16c61c4f91f24f3a4aa6dad871f1e2c9497840bf463",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/avatar/avatar_profile.h",
+      "origin": "fictional_public_asset_generated_from_reviewed_art",
+      "sha256": "290b76955c45a612c5d2fc9b78ad5b5266bbf09bcdd64eb709c236804a3563a8"
+    },
+    {
+      "path": "esp32/components/muse/avatar/muse_pixel.c",
+      "sha256": "ca0478913efa3667c64f628a2b38654efd5df62f07eeb5ac9b088dbd9ef7e79a",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/avatar/portrait_assets.h",
+      "origin": "fictional_public_asset_generated_from_reviewed_art",
+      "sha256": "387b2f34d0a4ebe656160b41d21e2b2b2a2d785fb05c04a06a7f2fe3bfb548ed"
+    },
+    {
+      "path": "esp32/components/muse/avatar/style_scene_assets.h",
+      "origin": "fictional_public_asset_generated_from_reviewed_art",
+      "sha256": "0fb85657d2fc85b721c6eaace5dfc6812f836702efd943fb86d56b8ac59ffb30"
+    },
+    {
+      "path": "esp32/components/muse/avatar/style_silhouette.h",
+      "origin": "fictional_public_asset_generated_from_reviewed_art",
+      "sha256": "b686cc9472322c0d2224458bd773bd57e6be3bab4d56949bc737d3600ac5bce0"
+    },
+    {
+      "path": "esp32/components/muse/boards/muse_lcd_bands.c",
+      "sha256": "18062936d924bf69cf841e179046464a53758715c8fdf4a66f0cee84a976244e",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/fonts/NotoSansTC-OFL.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/fonts/multilingual-coverage.json",
+      "origin": "public_multilingual_font_generation_metadata",
+      "sha256": "b78d9c731e1fa1f567e2f53f16494c7850c0fa2f8eba1e37332b68f1bab5af13"
+    },
+    {
+      "path": "esp32/components/muse/fonts/muse_font_noto_tc_16.c",
+      "sha256": "2df319a1c73c986a3e79cda42977edd6c67f2e705b59a9dbec27f564745e1e0a",
+      "origin": "public_union_font_generated_from_pinned_full_cjk_source"
+    },
+    {
+      "path": "esp32/components/muse/fonts/noto_tc_charset.txt",
+      "sha256": "ea315c13bd12d4b2db23cd64a2c5e86900ab4cbdbdbcc331813d2d37d5e94198",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/idf_component.yml",
+      "sha256": "854d058e37f403c4391046ae2bef9364920399b3be90fae414429aa3a137c33e",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_app.c",
+      "sha256": "ec9842a810fe82a2b9adcc7b22ba9a1d63bc495a820518eea5b6c1bb02f444b1",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_chat.h",
+      "sha256": "fd068e6e103dcc0c3fe6483c022084959e76fc0cbc5ed5d35011f5e1be490b05",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_chat_session.cpp",
+      "sha256": "7da2ebae0c0307c35745cc39a81d616387dc4c33b76de936ca9f83a6a38809a2",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_chat_text.c",
+      "sha256": "5847f17fad2229cf176c8efe269f2ece2163f225779eacbabeafe5877b2d725d",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_conversation_ui.c",
+      "sha256": "de3de15099b3de7a1489edcd033d7a272aca67db8e6aaac3f16dbd722690bd3d",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_conversation_ui.h",
+      "sha256": "4c1887ddc1b5540b0b1e3dd1d8bb1fbb98b421d72eb2d99505f30ca4b3da1753",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_dialog.c",
+      "sha256": "24945221073089c3d33faa2bdd5bab69aeaa6469190e839df086b0c4cb6d9e86",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_dialog.h",
+      "sha256": "2dc589125ad0e69fa23c75ba2170514668c80b8be25387222478b31ecd3a832a",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_fish_tts.cpp",
+      "sha256": "45dbf3ae067bbdd8fffd7fb0cbd90a8b3d1a9c0e6b3acee615772ebd43107ad9",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_fish_tts.h",
+      "sha256": "d13798f6307477f786643dca3b287153de16267be698211f7432ce3821c7c9bc",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_hint_ui.c",
+      "sha256": "ea871a6fe78194286b50c5b8cb8715ced0528af3a0197dddd83b2ce1f27ffafc",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_hint_ui.h",
+      "sha256": "91428016f6013907f302c3041fdc994670948eb47e27e9421667b51e3a7fd82e",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_i18n.c",
+      "origin": "public_localization",
+      "sha256": "0e03482dff82dae78c41fe0caeb6c3f72ab5b59e35aa631836e29441ec30ff3e"
+    },
+    {
+      "path": "esp32/components/muse/muse_i18n.h",
+      "origin": "public_localization",
+      "sha256": "cc1b6e15221127c4d69b18d59726678e0b956c14076c997896dc2dab5e5ad795"
+    },
+    {
+      "path": "esp32/components/muse/muse_i18n_catalog.def",
+      "origin": "public_localization",
+      "sha256": "1cfd5769ad491a9fdc9991c93cd0d134ffd43a8f317ef0d74c66b4f47cafefeb"
+    },
+    {
+      "path": "esp32/components/muse/muse_input.c",
+      "sha256": "1add84cc5ab5fd2b1a071bcd5d8b2ab53c4a55dadeb9bac9f498d283b68a3f45",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_keypad.c",
+      "sha256": "6cb673fd606ef0a49589aee34b462302d82d6f808356fbf3125b512588f45416",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_language_store.c",
+      "origin": "public_localization",
+      "sha256": "1e5b2ddf70c1e76aa2f0c948af59a0ffca0a3681b08f70f6b1af897c1d11b58d"
+    },
+    {
+      "path": "esp32/components/muse/muse_language_store.h",
+      "origin": "public_localization",
+      "sha256": "559cd0a0c9fb311d857b562ead29a9bd858838079f4edf09b1f53591d3a84ef6"
+    },
+    {
+      "path": "esp32/components/muse/muse_launcher.c",
+      "sha256": "3b24bc1317bf06d7f91290835798357a1622ff0bee472eba6948d00bac793b14",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_launcher.h",
+      "sha256": "2de58228f56657da04bde89ea63660cfe2f1baeeceba6bd016177e4ea295babd",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_menu.c",
+      "sha256": "f1f1ee5c1c5d912adc9e454edf67aba22656a62776576b38808fe09e8299cef7",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet.c",
+      "sha256": "aecf42fef88a3bb3d6e5a819b99aabf26962bed0837848eb9d32d3dd40b8e1fe",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet.h",
+      "sha256": "6c40c2fe2800069f4c8ad36fcb95e7e22d45ad8002eb4026b780c1d8b3892867",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_anim.c",
+      "sha256": "f5eb25861492efc018d20cedf86fb3b22c4129ed223197abd07c8fb6e6e58640",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_anim.h",
+      "sha256": "e5d1ddd1173f88dfb0a2ca10af0d9bc2bbbd25bc0dc50ee61c29ef22cc926ad4",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_art.c",
+      "sha256": "2f0a92745a952e4fd9365acc536af3a836108fe13ac74d78e0c0d1466228cdea",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_art.h",
+      "sha256": "4bc72f0139166afffd9c222180ee975fc7f6b0c90a35e04f07b3e59c6558b437",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_model.c",
+      "sha256": "f9f9b8401acabf3d07deecfa0e569e0ff07823de906b724d50dbf076f7b75cb1",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_model.h",
+      "sha256": "aafb9d1bfdf802f2f29ddd8c5bb63d8e746ccd1b697e9f22e7063c7a3be07c6a",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_sfx.c",
+      "sha256": "2fc403ae5d2af9d4a63c43be9ed263d85ffb61d50706f220175f954a2e34c1fa",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_sfx.h",
+      "sha256": "d8886050383d43568eb9ee634f95f143a93e81b39c6bdfbc47e240995fac1eef",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_ui.c",
+      "sha256": "912decc133367f894d317180683950dc1f8cbec2bc346f1c294c2bbb048e1437",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pet_ui.h",
+      "sha256": "4ecacbb720259be3899281fcab162e3abf3d25046f5b7f60c2f62ae0179f51ff",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_pixel.h",
+      "sha256": "5cfa7af656458d0dd15dc75df9531760264c5d5f9ef10ea969872529e74bda85",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_pixel_controls.h",
+      "sha256": "ca1df8e8aa2470ccd6292db316632eb0cb367783be214efabb5b18684a74b3e9",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_recent.c",
+      "sha256": "ca4ca3d3a775a77e46a80ecb195b3adcfc79b8393445ad131be148e3d16484a2",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_recent.h",
+      "sha256": "9f72ebebdfbd959336d116fa9543ba045756005750e48cfcb093726acc60e9ef",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ring_effect.c",
+      "sha256": "3360464fb44064336098e8a3f6d76f5dc09013c2740e1cd8050fee2179c8c7a9",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ring_effect.h",
+      "sha256": "7f81adc90f835805b3c23ef454814f621742757d8b9d01d794e92ff1f539bf4c",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_settings.c",
+      "origin": "modified_from_pinned_upstream",
+      "sha256": "9046d9bb0d675f549585632e4a49075066b3fc779ed1354bfd7109d8a0728a2e"
+    },
+    {
+      "path": "esp32/components/muse/muse_settings_ui.c",
+      "sha256": "8f6b6e22267fcc3912e60700ddeaefd6ea55eff765ece22e7e08adba03d9776e",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_speech_text.h",
+      "sha256": "66c1a5a36e1845582a679264ee83bbe42b8b5a6855c9feb82123a3303afe1091",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_status_ui.c",
+      "sha256": "aa8f53c6bdfac34a80417364aa0356e100fd038a35b5ef62be35566af5fdba29",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_status_ui.h",
+      "sha256": "2ec7b9912568cfe356eeb6069e37f0f198f19daaeeb57dba5c80946f76872e0a",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_style.c",
+      "sha256": "5dc09fc1e1f1364db749354253c1c19675e4e3a197f50565d96827a9c2ca4738",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_style.h",
+      "sha256": "55861291cbc2d762ce7ef5de682573dfc0ffbb5c5ca307c8447a0cff6f5393c9",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_style_ui.c",
+      "sha256": "2b246c58d2382102928ef5213af3c093e8449f0b807c53e8731a28e44fb99935",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_style_ui.h",
+      "sha256": "ea107839a1cceea1754d8d80c0975f15c3d6159afed655ba7681ab414f4dda8b",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_touch_mic.h",
+      "sha256": "bb382f862cf8a2a7f4f894fd43dd82753e9c1b4fbc1b9d4ecb5c9cf57f4dbf15",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui.c",
+      "sha256": "058ade8ca39d6b2361d0f2a5e1a70e28d62b63e0a086a53b00356b69014dc483",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_diag.c",
+      "sha256": "0926184521fd6fe2b344ee3d6902d598e39f61d7e5b2eaa09d6b72f97a645848",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_diag.h",
+      "sha256": "e317102068d12314778dab132a7f3429a5a65cdd4c1ae9d4d633171ade17c82b",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_diag_watch.h",
+      "sha256": "c911fc9f7cd1e90f58cf2937aaddf72761962bb1adef15a23c65746720c9fa23",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_fonts.c",
+      "sha256": "601413462ca97b126868570af3e2c279b2ccfeacefaf1b9d4e4e50bb616dc0ee",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_fonts.h",
+      "sha256": "663f7ea6322d031ab353f2388b947d237a18bc07c888a109676dfd3d48a1e7c9",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_ui_messages.h",
+      "sha256": "93389fbbc87d0cde731da634aecf2a9e7a357701e5b7a3453d45eed5d611a5b6",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/components/muse/muse_video.c",
+      "sha256": "1cff56f866833e9f5680f24ff7dd75c8a752297cd96c4986def0595c7a50e808",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_voice.c",
+      "sha256": "8960806ff8b463a0848b454cabcff684eb0c9d933084888665bcaaa54383bddd",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/components/muse/muse_voice.h",
+      "sha256": "a4b59d86b8b0b19d61af5e8bb694695e202d8007f977c2cd1c7dc141ec618725",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/devices/sdkconfig.muse-waveshare-s3-175c",
+      "sha256": "d66d8bc27088e334b5c68747143d56510a8ef4fc67ba61e20de317f05e834641",
+      "origin": "modified_from_pinned_upstream"
+    },
+    {
+      "path": "esp32/devices/sdkconfig.pet-public",
+      "sha256": "20ad81fef1064c48e641eac8a78277164b2969291cb67147e0e7fa716113f370",
+      "origin": "local_extension_reviewed_for_public_candidate"
+    },
+    {
+      "path": "esp32/main/idf_component.yml",
+      "sha256": "f420921515ba7e619c1994d153ca4484278bba027a97e3e0bed1955e093fd3bf",
+      "origin": "modified_from_pinned_upstream"
+    }
+  ],
+  "required_generated_assets": [
+    {
+      "path": "esp32/components/muse/avatar/portrait_assets.h",
+      "status": "supplied_and_build_verified"
+    },
+    {
+      "path": "esp32/components/muse/avatar/style_silhouette.h",
+      "status": "supplied_and_build_verified"
+    },
+    {
+      "path": "esp32/components/muse/avatar/avatar_profile.h",
+      "status": "supplied_and_build_verified"
+    },
+    {
+      "path": "esp32/components/muse/avatar/style_scene_assets.h",
+      "status": "supplied_and_build_verified"
+    }
+  ],
+  "release_blockers": [
+    "Hardware panel, touch, audio and pairing acceptance pending",
+    "Final runtime privacy and distribution-rights review pending",
+    "GitHub publication not performed"
+  ],
+  "project": {
+    "name": "TamaMe",
+    "repository_name_suggestion": "tamame-esp32",
+    "publication_status": "local source preview, not published"
+  },
+  "documentation": {
+    "default_readme": "README.md",
+    "default_language": "en",
+    "language_priority": [
+      "en",
+      "zh-CN",
+      "zh-TW"
+    ],
+    "coverage_index": "LANGUAGES.md",
+    "community_zh_CN": "pending",
+    "firmware_ui_language": "zh-TW",
+    "language_switch": "pending"
+  },
+  "font_coverage": {
+    "strategy": "single Unicode union",
+    "total_codepoints": 7379,
+    "big5_primary": 5401,
+    "gb2312_level1": 3755,
+    "native_lvgl_samples": [
+      "en",
+      "zh-CN",
+      "zh-TW"
+    ],
+    "hardware_verified": false,
+    "ui_translation_complete": true
+  },
+  "ui_languages": {
+    "default": "en",
+    "choices": [
+      "en",
+      "zh-CN",
+      "zh-TW"
+    ],
+    "catalog_entries": 323,
+    "nvs_namespace": "tamame_ui",
+    "nvs_key": "language",
+    "applies": "restart after successful save",
+    "user_content_translated": false,
+    "hardware_verified": true,
+    "hardware_scope": "User-confirmed Simplified/Traditional settings and wardrobe after restart; corrected English wardrobe; Traditional language, saved outfit and Wi-Fi retained after power cycle. Not exhaustive UI, captions or errors."
+  },
+  "wardrobe_ui": {
+    "tabs": 3,
+    "accessory": "single selection",
+    "sunglasses": "independent checkbox under accessories",
+    "storage_migration": false,
+    "hardware_retest": "User confirmed corrected English wardrobe and independent accessory/glasses selection; targeted Simplified/Traditional checks passed"
+  }
+}

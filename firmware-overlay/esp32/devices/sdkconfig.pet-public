@@ -1,0 +1,8 @@
+# Public edition: load after the board overlays; use a fresh build directory.
+# CONFIG_MUSE_FISH_TTS is not set
+# CONFIG_MUSE_VIDEO is not set
+# CONFIG_MUSE_VIDEO_WIFI is not set
+CONFIG_GADGET_SDK_TOKEN=""
+
+# Common English + Traditional/Simplified Chinese caption/UI union font.
+CONFIG_MUSE_TC_FONT=y

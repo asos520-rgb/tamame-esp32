@@ -1,0 +1,25 @@
+{
+  "origin": "built-in imagegen, fictional public designs approved as visual direction",
+  "contains_real_person": false,
+  "avatar_layout": "4x2 row-major",
+  "scene_layout": "3x2 row-major, first five tiles",
+  "normalization": "alpha >=128 largest component; 36x45 at (14,13); head unchanged, neck extended, shirt mapped to y44..54, feet y55..58; nearest-neighbor; RGB565 palettes",
+  "states": [
+    "boot",
+    "idle",
+    "listening",
+    "thinking",
+    "speaking",
+    "happy",
+    "error",
+    "off"
+  ],
+  "scenes": [
+    "gym",
+    "desk",
+    "living",
+    "bedroom",
+    "cafe"
+  ],
+  "hardware_verified": false
+}

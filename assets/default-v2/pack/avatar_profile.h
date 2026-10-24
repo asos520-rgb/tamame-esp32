@@ -1,0 +1,24 @@
+/* Generated locally. Contains avatar appearance; keep private unless shareable. */
+#pragma once
+#include <stdint.h>
+
+#define PET_AVATAR_TEMPLATE_VERSION 1
+#define PET_AVATAR_LEFT_EYE_X0 19
+#define PET_AVATAR_LEFT_EYE_Y0 31
+#define PET_AVATAR_LEFT_EYE_X1 28
+#define PET_AVATAR_LEFT_EYE_Y1 38
+#define PET_AVATAR_RIGHT_EYE_X0 34
+#define PET_AVATAR_RIGHT_EYE_Y0 31
+#define PET_AVATAR_RIGHT_EYE_X1 43
+#define PET_AVATAR_RIGHT_EYE_Y1 38
+#define PET_AVATAR_MOUTH_X0 28
+#define PET_AVATAR_MOUTH_Y0 38
+#define PET_AVATAR_MOUTH_X1 35
+#define PET_AVATAR_MOUTH_Y1 43
+#define PET_AVATAR_CLOTHING_X0 20
+#define PET_AVATAR_CLOTHING_Y0 46
+#define PET_AVATAR_CLOTHING_X1 43
+#define PET_AVATAR_CLOTHING_Y1 54
+#define PET_AVATAR_SKIN 0xFCC194u
+#define PET_AVATAR_CHEEK 0xDB8A69u
+#define PET_AVATAR_MOUTH 0x843F2Bu

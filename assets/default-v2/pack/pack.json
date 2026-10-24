@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "template": "humanoid64-v1",
+  "states": [
+    "boot",
+    "idle",
+    "listening",
+    "thinking",
+    "speaking",
+    "happy",
+    "error",
+    "off"
+  ],
+  "size": [
+    64,
+    64
+  ],
+  "payload_bytes": 37376,
+  "private_by_default": true,
+  "renderer_integration": "requires staged renderer and later firmware integration"
+}
